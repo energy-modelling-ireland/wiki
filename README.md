@@ -74,6 +74,11 @@ Environmental Protection Agency (EPA) Annual Energy Use Data
 - Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings 
 - http://epa.ie/licensing/
 
+UK Energy Research Centre (UKERC) Data Catalogue   
+------------------------------------------------------------
+- Compilation of energy related publications for the United Kingdom
+- https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Related&WantComp=40
+
 ---
 
 Building Fabric Data
