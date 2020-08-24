@@ -23,8 +23,9 @@ Table of Contents
 <!--ts-->
 * [Table of Contents](#table-of-contents)
 * [Data Catalogues](#data-catalogues)
-* [Energy Usage Data](#energy-usage-data)
-* [Building Fabric Data](#building-fabric-data)
+* [Energy Consumption](#energy-consumption)
+* [Building Fabric](#building-fabric)
+* [Appliance Usage](#appliance-usage)
 * [Geodata](#geodata)
 * [Benchmarks](#benchmarks)
 * [Emissions, Waste and Landfill](#emissions-waste-and-landfill)
@@ -52,14 +53,15 @@ UK Energy Research Centre (UKERC) Data Catalogue
 ---
 
 
-Energy Usage Data
-=================
+Energy Consumption
+==================
 
 Commission for Regulation of Utilities (CRU) Smart Meter Trials
 ---------------------------------------------------------------
 - `Available upon request`
 - Electricity meter data at 15-minute resolution for a sample of 5,000 Irish homes and businesses between 2009-10
 - Gas meter data at 15-minute resolution for a representative sample of nearly 2,000 Irish homes between 2010-11
+- __Survey of participants links appliance usage to building IDs__
 - https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
 
 Gas Network's Ireland Networked Gas Consumption
@@ -75,15 +77,14 @@ Environmental Protection Agency (EPA) Annual Energy Use
 Mortar
 ------
 - "The goal of Mortar is to provide a large, diverse and consistently updated testbed of buildings and building data to facilitate reproducible evaluation of building analytics.  At this time, Mortar contains 107 buildings, spanning over 10 billion data points and 26,000 data streams."
-- 
 - https://mortardata.org/
 
 
 ---
 
 
-Building Fabric Data
-====================
+Building Fabric
+===============
 
 SEAI's 2016 Census Small Area Statistics
 ----------------------------------------
@@ -101,6 +102,17 @@ Valuation Office API
 - Building data (floor areas ...) for all Commercial buildings in Ireland
 - __Note:__ Apply benchmarks to these floor areas to estimate commercial building energy usage
 - https://opendata.valoff.ie/api/
+
+
+---
+
+Appliance Usage
+===============
+
+United Kingdom Time Use Survey, 2014-2015
+-----------------------------------------
+- "The United Kingdom Time Use Survey, 2014-2015 (UKTUS) is a large-scale household survey that provides data on how people aged 8 years and over in the UK spend their time. At the heart of the survey is a time diary instrument in which respondents record their daily activities. Time diaries record events sequences for prescribed periods, usually a single day."
+- https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8128
 
 
 ---
@@ -136,7 +148,7 @@ Chartered Institute of Building Services Engineers (CIBSE) 2008
 
 
 Emissions, Waste and Landfill
-===========================
+=============================
 
 Environmental Protection Agency (EPA) Licensing and Permitting
 ------------------------------------------------------------
