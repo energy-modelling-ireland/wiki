@@ -19,13 +19,14 @@ Table of Contents
 =================
 
 <!--ts-->
-   * [Energy Data Sources](#energy-data-sources)
-   * [Table of Contents](#table-of-contents)
-   * [How to Contribute?](#how-to-contribute)
-   * [Energy Usage Data](#energy-usage-data)
-   * [Building Fabric Data](#building-fabric-data)
-   * [Geodata](#geodata)
-   * [Benchmarks](#benchmarks)
+* [Table of Contents](#table-of-contents)
+* [Data Catalogues](#data-catalogues)
+* [Energy Usage Data](#energy-usage-data)
+* [Building Fabric Data](#building-fabric-data)
+* [Geodata](#geodata)
+* [Benchmarks](#benchmarks)
+* [Emissions, Waste and Landfill](#emissions-waste-and-landfill)
+* [How to Contribute?](#how-to-contribute)
 <!--te-->
 
 
@@ -125,7 +126,7 @@ Chartered Institute of Building Services Engineers (CIBSE) 2008
 ---
 
 
-Emissions, Waste & Landfill
+Emissions, Waste and Landfill
 ===========================
 
 Environmental Protection Agency (EPA) Data
