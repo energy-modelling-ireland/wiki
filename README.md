@@ -3,9 +3,9 @@ Energy Data Sources
 
 This repository contains links to up-to-date Ireland energy usage data sources 
 
-Have a new data source to add? Great! Please follow the `how-to` guide below and submit it.
+Have a new data source to add? Great! Please follow the [`how-to-contribute`](#how-to-contribute) guide below and submit it.
 
-Found a broken data source URL? Excellent! Please follow the `how-to` guide below and submit it fixed or removed.
+Found a broken data source URL? Excellent! Please follow the [`how-to-contribute`](#how-to-contribute) guide below and submit it fixed or removed.
 
 Would rather solve the issue via email? No problem, email us at `codema-dev@codema.ie`
 
