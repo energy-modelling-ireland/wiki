@@ -7,7 +7,7 @@ Have a new data source to add? Great! Please follow the `how-to` guide below and
 
 Found a broken data source URL? Excellent! Please follow the `how-to` guide below and submit it fixed or removed.
 
-Would rather solve the issue via email? No problem, email us at `EnergyModellingIreland@gmail.com`
+Would rather solve the issue via email? No problem, email us at `codema-dev@codema.ie`
 
 ---
 
