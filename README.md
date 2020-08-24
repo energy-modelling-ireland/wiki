@@ -61,7 +61,6 @@ Commission for Regulation of Utilities (CRU) Smart Meter Trials
 - `Available upon request`
 - Electricity meter data at 15-minute resolution for a sample of 5,000 Irish homes and businesses between 2009-10
 - Gas meter data at 15-minute resolution for a representative sample of nearly 2,000 Irish homes between 2010-11
-- __Survey of participants links appliance usage to building IDs__
 - https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
 
 Gas Network's Ireland Networked Gas Consumption
@@ -113,6 +112,12 @@ United Kingdom Time Use Survey, 2014-2015
 -----------------------------------------
 - "The United Kingdom Time Use Survey, 2014-2015 (UKTUS) is a large-scale household survey that provides data on how people aged 8 years and over in the UK spend their time. At the heart of the survey is a time diary instrument in which respondents record their daily activities. Time diaries record events sequences for prescribed periods, usually a single day."
 - https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8128
+
+Commission for Regulation of Utilities (CRU) Smart Meter Trials
+---------------------------------------------------------------
+- `Available upon request`
+- __Survey of participants links typical appliance usage to building IDs__ 
+- https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
 
 
 ---
