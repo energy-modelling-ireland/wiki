@@ -1,7 +1,9 @@
 Energy Data Sources
 ===================
 
-This repository contains URL links & descriptions to a collection of energy-related data sources for Ireland.  All of the data listed here is either open access or is accessible via an application process with the relevant body (these sources will be marked explicitely as `Available upon request`).   
+This repository contains URL links & descriptions to a collection of energy-related data sources for Ireland.  
+
+All of the data listed here is either open access or is accessible via an application process with the relevant body (these sources will be marked explicitely as `Available upon request`).   
 
 Have a new data source to add? Great! Please follow the [`how-to-contribute`](#how-to-contribute) guide below and submit it.
 
