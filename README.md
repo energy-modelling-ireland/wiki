@@ -1,7 +1,7 @@
 Energy Data Sources
 ===================
 
-This repository contains links to up-to-date Ireland energy usage data sources 
+This repository contains URL links & descriptions to a collection of energy-related data sources for Ireland.  All of the data listed here is either open access or is accessible via an application process with the relevant body (these sources will be marked explicitely as `Available upon request`).   
 
 Have a new data source to add? Great! Please follow the [`how-to-contribute`](#how-to-contribute) guide below and submit it.
 
@@ -55,6 +55,7 @@ Energy Usage Data
 
 Commission for Regulation of Utilities (CRU) Smart Meter Trials Data
 --------------------------------------------------------------------
+- `Available upon request`
 - Electricity meter data at 15-minute resolution for a sample of 5,000 Irish homes and businesses between 2009-10
 - Gas meter data at 15-minute resolution for a representative sample of nearly 2,000 Irish homes between 2010-11
 - https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
