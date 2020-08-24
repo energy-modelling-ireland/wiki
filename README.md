@@ -11,7 +11,9 @@ Would rather solve the issue via email? No problem, email us at `codema-dev@code
 
 All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
 
+
 ---
+
 
 Table of Contents
 =================
@@ -26,7 +28,9 @@ Table of Contents
    * [Benchmarks](#benchmarks)
 <!--te-->
 
+
 ---
+
 
 How to contribute?
 ==================
@@ -57,7 +61,26 @@ Here’s a quick guide to editing GitHub Markdown files on GitHub, if you’re n
 
 > Adapted from [`list-of-python-api-wrappers`](https://github.com/discdiver/list-of-python-api-wrappers/blob/master/readme.md) and this excellent [Medium.com article](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b)
 
+
 ---
+
+
+Data Catalogues
+===============
+
+Irish Social Science Data Archive (ISSDA)
+-----------------------------------------
+- "The Irish Social Science Data Archive (ISSDA) is Ireland’s leading centre for quantitative data acquisition, preservation, and dissemination. Based at UCD Library, its mission is to ensure wide access to quantitative datasets in the social sciences, and to advance the promotion of international comparative studies of the Irish economy and Irish society."
+- https://www.ucd.ie/issda/data/
+
+UK Energy Research Centre (UKERC) Data Catalogue   
+------------------------------------------------
+- Compilation of energy related publications for the United Kingdom
+- https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Related&WantComp=40
+
+
+---
+
 
 Energy Usage Data
 =================
@@ -78,12 +101,9 @@ Environmental Protection Agency (EPA) Annual Energy Use Data
 - Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings 
 - http://epa.ie/licensing/
 
-UK Energy Research Centre (UKERC) Data Catalogue   
-------------------------------------------------
-- Compilation of energy related publications for the United Kingdom
-- https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Related&WantComp=40
 
 ---
+
 
 Building Fabric Data
 ====================
@@ -105,7 +125,9 @@ Valuation Office Data
 - __Note:__ Can apply benchmarks to these floor areas to estimate commercial building energy usage
 - https://opendata.valoff.ie/api/
 
+
 ---
+
 
 Geodata
 =======
@@ -123,6 +145,7 @@ Shane McGuinness' (of Trinity College) Dublin Postcodes Geometries
 
 ---
 
+
 Benchmarks
 ==========
 
@@ -130,3 +153,16 @@ Chartered Institute of Building Services Engineers (CIBSE) 2008
 ---------------------------------------------------------------
 - Commercial sector building fossil fuel and electricity benchmarks by building type
 - https://www.metrocommercial.co.uk/images/resources/CIBSE_TM46_Energy%20Benchmarks.pdf
+
+
+---
+
+
+Emissions, Waste & Landfill
+===========================
+
+Environmental Protection Agency (EPA) Data
+------------------------------------------------------------
+- Industrial Emissions, Waste & Landfill
+- http://epa.ie/licensing/
+
