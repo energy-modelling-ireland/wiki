@@ -55,22 +55,28 @@ UK Energy Research Centre (UKERC) Data Catalogue
 Energy Usage Data
 =================
 
-Commission for Regulation of Utilities (CRU) Smart Meter Trials Data
---------------------------------------------------------------------
+Commission for Regulation of Utilities (CRU) Smart Meter Trials
+---------------------------------------------------------------
 - `Available upon request`
 - Electricity meter data at 15-minute resolution for a sample of 5,000 Irish homes and businesses between 2009-10
 - Gas meter data at 15-minute resolution for a representative sample of nearly 2,000 Irish homes between 2010-11
 - https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
 
-Gas Network's Ireland Networked Gas Consumption data
-----------------------------------------------------
+Gas Network's Ireland Networked Gas Consumption
+-----------------------------------------------
 - Annual Gas consumption data for all Irish Power Plants, Residential & Non-Residential
 - https://www.cso.ie/en/statistics/climateandenergy/networkedgasconsumption/
 
-Environmental Protection Agency (EPA) Annual Energy Use Data
-------------------------------------------------------------
+Environmental Protection Agency (EPA) Annual Energy Use
+-------------------------------------------------------
 - Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings 
 - http://epa.ie/licensing/
+
+Mortar
+------
+- "The goal of Mortar is to provide a large, diverse and consistently updated testbed of buildings and building data to facilitate reproducible evaluation of building analytics.  At this time, Mortar contains 107 buildings, spanning over 10 billion data points and 26,000 data streams."
+- 
+- https://mortardata.org/
 
 
 ---
@@ -79,21 +85,21 @@ Environmental Protection Agency (EPA) Annual Energy Use Data
 Building Fabric Data
 ====================
 
-SEAI's 2016 Census Small Area Data
-----------------------------------
+SEAI's 2016 Census Small Area Statistics
+----------------------------------------
 - Building data (period built, dwelling type ...) for all households in Ireland who participated in the 2016 Census at areas of population generally comprising between 80 and 120 dwellings.
 - https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/
 
-SEAI's BER Public Search Data
------------------------------
+SEAI's BER Public Search
+------------------------
 - Building data (type of heating, building geometry ...) for all households in Ireland who have had their household's BER rating evaluated.
 - Updated nightly
 - https://ndber.seai.ie/BERResearchTool/Register/Register.aspx
 
-Valuation Office Data
----------------------
+Valuation Office API
+--------------------
 - Building data (floor areas ...) for all Commercial buildings in Ireland
-- __Note:__ Can apply benchmarks to these floor areas to estimate commercial building energy usage
+- __Note:__ Apply benchmarks to these floor areas to estimate commercial building energy usage
 - https://opendata.valoff.ie/api/
 
 
@@ -132,9 +138,10 @@ Chartered Institute of Building Services Engineers (CIBSE) 2008
 Emissions, Waste and Landfill
 ===========================
 
-Environmental Protection Agency (EPA) Data
+Environmental Protection Agency (EPA) Licensing and Permitting
 ------------------------------------------------------------
 - Industrial Emissions, Waste & Landfill
+- As part of their licencing and permits companies have to submit an annual environmental report which captures emissions (not only GHGs) and also asks for energy use.
 - http://epa.ie/licensing/
 
 
