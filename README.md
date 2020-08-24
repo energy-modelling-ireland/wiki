@@ -9,6 +9,8 @@ Found a broken data source URL? Excellent! Please follow the `how-to` guide belo
 
 Would rather solve the issue via email? No problem, email us at `codema-dev@codema.ie`
 
+All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
+
 ---
 
 Table of Contents
