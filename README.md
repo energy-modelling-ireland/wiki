@@ -32,39 +32,6 @@ Table of Contents
 ---
 
 
-How to contribute?
-==================
-
-If you find a data source that is missing from the list, please edit the ReadMe file and submit a pull request. 
-
-Here’s a quick guide to editing GitHub Markdown files on GitHub, if you’re new to this:
-
-- Click on the README file
-
-![Click README file](images/click-readme-file.PNG)
-
-- Click the pencil icon in the top-right corner and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it). 
-
-![Click README pencil](images/click-readme-pencil.PNG)
-
-- Make your changes
-
-![Make changes](images/proposed-changes-to-readme.PNG)
-
-- Scroll down to `Propose Changes`, summarise the changes & add a quick explanation on why the change should be made.
-
-![Propose changes](images/propose-changes.PNG)
-
-- Click `Create pull request`. Thank you! 🎉
-
-![Create pull request](images/create-pull-request.PNG)
-
-> Adapted from [`list-of-python-api-wrappers`](https://github.com/discdiver/list-of-python-api-wrappers/blob/master/readme.md) and this excellent [Medium.com article](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b)
-
-
----
-
-
 Data Catalogues
 ===============
 
@@ -165,4 +132,37 @@ Environmental Protection Agency (EPA) Data
 ------------------------------------------------------------
 - Industrial Emissions, Waste & Landfill
 - http://epa.ie/licensing/
+
+
+---
+
+
+How to contribute?
+==================
+
+If you find a data source that is missing from the list, please edit the ReadMe file and submit a pull request. 
+
+Here’s a quick guide to editing GitHub Markdown files on GitHub, if you’re new to this:
+
+- Click on the README file
+
+![Click README file](images/click-readme-file.PNG)
+
+- Click the pencil icon in the top-right corner and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it). 
+
+![Click README pencil](images/click-readme-pencil.PNG)
+
+- Make your changes
+
+![Make changes](images/proposed-changes-to-readme.PNG)
+
+- Scroll down to `Propose Changes`, summarise the changes & add a quick explanation on why the change should be made.
+
+![Propose changes](images/propose-changes.PNG)
+
+- Click `Create pull request`. Thank you! 🎉
+
+![Create pull request](images/create-pull-request.PNG)
+
+> Adapted from [`list-of-python-api-wrappers`](https://github.com/discdiver/list-of-python-api-wrappers/blob/master/readme.md) and this excellent [Medium.com article](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b)
 
