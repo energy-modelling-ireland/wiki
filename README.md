@@ -31,13 +31,14 @@ How to contribute?
 
 If you find a data source that is missing from the list, please edit the ReadMe file and submit a pull request. 
 
-Here’s a quick guide to editing GitHub Markdown files in the GUI, if you’re new to this:
+Here’s a quick guide to editing GitHub Markdown files on GitHub, if you’re new to this:
 
-- Click the pencil icon in the right corner and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it). 
-- Click the green Propose file change button at the bottom of the page. 
-- Click on the green Create pull request button.
-- Summarise the changes.
-- Click on the green Create pull request button at the bottom. Thank you! 🎉
+- Click the pencil icon in the top-right corner and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it). 
+- Make your changes
+- Scroll down to `Commit Changes`, summarise the changes & add a quick explanation on why the change should be made.
+- Click `Create a new branch for this commit and start a pull request.` and rename `patch-1` with a dash-separated summary
+- Click `Propose Changes`
+- Click `Create pull request`. Thank you! 🎉
 
 > Adapted from [`list-of-python-api-wrappers`](https://github.com/discdiver/list-of-python-api-wrappers/blob/master/readme.md) and this excellent [Medium.com article](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b)
 
