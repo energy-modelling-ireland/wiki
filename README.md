@@ -35,23 +35,25 @@ If you find a data source that is missing from the list, please edit the ReadMe 
 
 Here’s a quick guide to editing GitHub Markdown files on GitHub, if you’re new to this:
 
+- Click on the README file
+
+![Click README file](images/click-readme-file.PNG)
+
 - Click the pencil icon in the top-right corner and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it). 
 
 ![Click README pencil](images/click-readme-pencil.PNG)
 
 - Make your changes
 
-![Proposed changes to README](images/proposed-changes-to-readme.PNG)
+![Make changes](images/proposed-changes-to-readme.PNG)
 
-- Scroll down to `Commit Changes`, summarise the changes & add a quick explanation on why the change should be made.
+- Scroll down to `Propose Changes`, summarise the changes & add a quick explanation on why the change should be made.
 
-![Summarise changes](images/summary-of-changes.PNG)
-
-- Click `Create a new branch for this commit and start a pull request.` and rename `patch-1` with a dash-separated summary & click `Propose Changes`
-
-![Sumbit changes](images/submit-changes.PNG)
+![Propose changes](images/propose-changes.PNG)
 
 - Click `Create pull request`. Thank you! 🎉
+
+![Create pull request](images/create-pull-request.PNG)
 
 > Adapted from [`list-of-python-api-wrappers`](https://github.com/discdiver/list-of-python-api-wrappers/blob/master/readme.md) and this excellent [Medium.com article](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b)
 
