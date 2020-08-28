@@ -9,7 +9,7 @@ Have a new data source to add? Great! Please follow the [`how-to-contribute`](#h
 
 Found a broken data source URL? Excellent! Please follow the [`how-to-contribute`](#how-to-contribute) guide below and submit it fixed or removed.
 
-Would rather solve the issue via email? No problem, email us at `codema-dev@codema.ie`
+Would rather solve the issue via email? No problem, email us at `energy-modelling-ireland-admin@googlegroups.com`
 
 All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
 
