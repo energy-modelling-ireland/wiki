@@ -170,19 +170,26 @@ Environmental Protection Agency (EPA) Licensing and Permitting
 How to contribute?
 ==================
 
-If you find a data source that is missing from the list, please edit the ReadMe file and submit a pull request. 
-
 Here’s a quick guide to editing GitHub Markdown files on GitHub, if you’re new to this:
 
-- Click on the README file
+- Scroll up to the top of this page and Click on the `README.md` file
 
 ![Click README file](images/click-readme-file.PNG)
 
-- Click the pencil icon in the top-right corner and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it). 
+- You should now be able to see a pencil icon in the top-right corner of the page.  Click it!
 
 ![Click README pencil](images/click-readme-pencil.PNG)
 
-- Make your changes
+- Scroll down and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it) in the following format:
+
+```
+Title of Data Source
+--------------------
+- `Available upon request` if have to contact the data owner for access
+- Description of Data Source ...
+- http://www.link-to-data.ie/thedata/
+
+```
 
 ![Make changes](images/proposed-changes-to-readme.PNG)
 
