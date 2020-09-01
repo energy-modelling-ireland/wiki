@@ -9,7 +9,9 @@ __Have a new data source to add or found a broken data source URL?__ Great! Plea
 
 ```
 Name of source:  Irish Social Science Data Archive (ISSDA)
+
 Short description:  "The Irish Social Science Data Archive (ISSDA) is Ireland’s leading centre for quantitative data acquisition, preservation, and dissemination. Based at UCD Library, its mission is to ensure wide access to quantitative datasets in the social sciences, and to advance the promotion of international comparative studies of the Irish economy and Irish society."
+
 URL link to source:  https://www.ucd.ie/issda/data/
 ```
 
