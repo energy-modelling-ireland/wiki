@@ -5,13 +5,15 @@ This repository contains URL links & descriptions to a collection of energy-rela
 
 All of the data listed here is either open access or is accessible via an application process with the relevant body (these sources will be marked explicitely as `Available upon request`).   
 
-Have a new data source to add? Great! Please follow the [`how-to-contribute`](#how-to-contribute) guide below and submit it.
+__Have a new data source to add or found a broken data source URL?__ Great! Please email us at `energy-modelling-ireland-admin@googlegroups.com` with:
 
-Found a broken data source URL? Excellent! Please follow the [`how-to-contribute`](#how-to-contribute) guide below and submit it fixed or removed.
+```
+Name of source:  Irish Social Science Data Archive (ISSDA)
+Short description:  "The Irish Social Science Data Archive (ISSDA) is Ireland’s leading centre for quantitative data acquisition, preservation, and dissemination. Based at UCD Library, its mission is to ensure wide access to quantitative datasets in the social sciences, and to advance the promotion of international comparative studies of the Irish economy and Irish society."
+URL link to source:  https://www.ucd.ie/issda/data/
+```
 
-Would rather solve the issue via email? No problem, email us at `energy-modelling-ireland-admin@googlegroups.com`
-
-All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
+Want to contribute through Github instead? Please follow the [`how-to-contribute`](#how-to-contribute) guide below.  All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
 
 
 ---
