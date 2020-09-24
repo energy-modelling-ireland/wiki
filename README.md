@@ -34,7 +34,9 @@ Table of Contents
 * [Appliance Usage](#appliance-usage)
 * [Geodata](#geodata)
 * [Benchmarks](#benchmarks)
-* [Emissions, Waste and Landfill](#emissions-waste-and-landfill)
+* [Emissions, Waste and Landfill](#emissions)
+* [Waste and Landfill](#waste-and-landfill)
+* [Weather](#weather)
 * [How to Contribute?](#how-to-contribute)
 <!--te-->
 
@@ -72,7 +74,7 @@ Commission for Regulation of Utilities (CRU) Smart Meter Trials
 Carbon Trust Advanced Metering Trial (2004-2006)
 ------------------------------------------------
 - `Available upon request`
-- Half hourly gas and electricity (and water) consumption data ( not all utilities were monitored at every site) gathered during the Carbon Trusts Advanced Metering for SMEs project (2004-2006) in United Kingdom Regions of England, Wales and Scotland.  
+- Half hourly gas and electricity (and water) consumption data (not all utilities were monitored at every site) gathered during the Carbon Trusts Advanced Metering for SMEs project (2004-2006) in United Kingdom Regions of England, Wales and Scotland.  
 - Meter readings are available for small and medium-sized enterprises (SMEs).  The sectors covered are:
   - Community, social and personal activities
   - Education
@@ -91,7 +93,8 @@ Gas Network's Ireland Networked Gas Consumption
 
 Environmental Protection Agency (EPA) Annual Energy Use
 -------------------------------------------------------
-- Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings 
+- Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings.  
+- As part of their licencing and permits companies have to submit an annual environmental report
 - http://epa.ie/licensing/
 - Rebecca Cachia (Codema - Dublin's Energy Agency) extracted all energy data for 47 industrial buildings in Dublin (November, 2019).
 - https://zenodo.org/record/4048377
@@ -140,7 +143,17 @@ Valuation Office API
 - __Note:__ Apply benchmarks to these floor areas to estimate commercial building energy usage
 - https://opendata.valoff.ie/api/
 
+Air Tightness Ireland Field Data houses 1944-2008 (2012)
+--------------------------------------------------------
+- Air-tightness field data for dwellings in Ireland.
+  - "Air permeability test results of 28 houses built between 1944 and 2008 and at varying stages of retrofit."
+- https://doi.org/10.1016/j.buildenv.2011.11.016
 
+Air Tightness UK Field Data houses post-2006 (2010)
+---------------------------------------------------
+- Air-tightness field data for dwellings in the UK.
+  - "This paper reports on the air permeability test results of 287 post-2006 new-build dwellings in the UK."
+- https://doi.org/10.1016/j.buildenv.2010.04.011
 ---
 
 
@@ -183,24 +196,93 @@ Shane McGuinness' (of Trinity College) Dublin Postcodes Geometries
 Benchmarks
 ==========
 
-Chartered Institute of Building Services Engineers (CIBSE) 2008
----------------------------------------------------------------
-- Commercial sector building fossil fuel and electricity benchmarks by building type
-- https://www.metrocommercial.co.uk/images/resources/CIBSE_TM46_Energy%20Benchmarks.pdf
+Chartered Institute of Building Services Engineers (CIBSE) TM46: Energy Benchmarks (2008)
+-----------------------------------------------------------------------------------------
+- `Available on purchase`
+  - €55
+- Commercial sector building fossil fuel and electricity benchmarks by building type from a CIBSE Study 'Energy & CO2 emissions benchmarks for non-domestic buildings' from 2007.
+- __Note:__ CIBSE has updated these benchmarks in Guide F (2012)
+  - "This platform [energy benchmarking tool] aims to gradually update and replace the energy benchmarks in table 20.1 of CIBSE Guide F: Energy Efficiency in Buildings."
+- URL: https://www.cibse.org/Knowledge/knowledge-items/detail?id=a0q20000008I7evAAC
+- Benchmarking tool: https://cibse.org/knowledge/energy-benchmarking-tool-beta-version
+
+Chartered Institute of Building Services Engineers (CIBSE) Guide F: Energy Efficiency in Buildings (2012)
+---------------------------------------------------------------------------------------------------------
+- `Available on purchase`
+  - €114
+- Commercial sector building fossil fuel and electricity benchmarks by building type used by the CIBSE Energy Benchmarking Tool
+- __Note:__ CIBSE is phasing out these benchmarks in favour of DEC-based benchmarks (see UK DEC above) 
+  - "Revised benchmarks have been introduced for some building types (see below) which are based on the Display Energy Certificates (these covered more than 120k DECs – for details, see full report) analysed by UCL under a jointly sponsored project."
+- URL: https://www.cibse.org/Knowledge/knowledge-items/detail?id=a0q20000008I7oTAAS
+- Benchmarking tool: https://cibse.org/knowledge/energy-benchmarking-tool-beta-version
 
 
 ---
 
 
-Emissions, Waste and Landfill
-=============================
+Emissions
+=========
+
+SEAI Conversion Factors
+-----------------------
+- Calorific values, Emission factors, Fuel densities, Primary energy conversion factors
+- URL: https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/
+- Derivation Methodology: https://www.seai.ie/publications/DEAP-Elec-Factors-2017.pdf
 
 Environmental Protection Agency (EPA) Licensing and Permitting
 ------------------------------------------------------------
-- Industrial Emissions, Waste & Landfill
-- As part of their licencing and permits companies have to submit an annual environmental report which captures emissions (not only GHGs) and also asks for energy use.
-- http://epa.ie/licensing/
+- Industrial Emissions
+- As part of their licencing and permits Emissions Trading System (ETS) industrial buildings have to submit an annual environmental report.
+- URL: http://epa.ie/licensing/
 
+
+---
+
+Waste and Landfill
+==================
+
+Environmental Protection Agency (EPA) Licensing and Permitting
+------------------------------------------------------------
+- Industrial Waste & Landfill
+- As part of their licencing and permits Emissions Trading System (ETS) industrial buildings have to submit an annual environmental report.
+- URL: http://epa.ie/licensing/
+
+---
+
+Weather
+=======
+
+Met Eireann Historical Data
+---------------------------
+- Historical Irish weather data
+- URL: https://www.met.ie/climate/available-data/historical-data
+
+ASHRAE International Weather for Energy Calculations v2 (IWEC2)
+---------------------------------------------------------------
+- `Available on purchase`
+  - €94 for all-Ireland
+  - €34 for an individual station
+- The files are derived from Integrated Surface Hourly (ISH) weather data originally archived at the National Climatic Data Center. For these selected locations, the ISH database contains weather observations on average at least four times per day of wind speed and direction, sky cover, visibility, ceiling height, dry-bulb temperature, dew-point temperature, atmospheric pressure, liquid precipitation, and present weather for at least 12 years of records up to 25 years.
+- URL: http://ashrae.whiteboxtechnologies.com/IWEC2
+
+EnergyPLUS Weather Data
+-----------------------
+- Weather data for more than 2100 locations are now available in EnergyPlus weather format — 1042 locations in the USA, 71 locations in Canada, and more than 1000 locations in 100 other countries throughout the world.
+- URL: https://energyplus.net/weather
+
+
+---
+
+Guides
+======
+
+CIBSE Guide A
+-------------
+- `Available on purchase`
+  - €98
+- A UK technical reference source for designers and installers of heating, ventilating and air conditionings services.
+- URL: https://www.cibse.org/knowledge/knowledge-items/detail?id=a0q20000008I79JAAS
+- Blog: https://www.cibsejournal.com/general/guide-a-cibses-essential-guide-to-environmental-design-explained/
 
 ---
 
