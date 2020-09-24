@@ -101,6 +101,18 @@ Mortar
 - "The goal of Mortar is to provide a large, diverse and consistently updated testbed of buildings and building data to facilitate reproducible evaluation of building analytics.  At this time, Mortar contains 107 buildings, spanning over 10 billion data points and 26,000 data streams."
 - https://mortardata.org/
 
+Energy Performance of Buildings Data: England and Wales
+-------------------------------------------------------
+- The domestic and non-domestic Energy Performance of Buildings Registers (the registers) are the official place for all Energy Performance Certificates (EPCs), Display Energy Certificates (DECs) and Air Conditioning Inspection Reports (ACIRs).
+- https://epc.opendatacommunities.org/
+
+SEAI Measurement & Reporting Data (M&R)
+---------------------------------------
+- `Available upon request`
+- Energy Demands for M&R Public Sector buildings.
+- More information: https://www.seai.ie/business-and-public-sector/public-sector/monitoring-and-reporting/
+- SEAI contact page: https://www.seai.ie/contact-us/
+
 
 ---
 
@@ -130,6 +142,7 @@ Valuation Office API
 
 
 ---
+
 
 Appliance Usage
 ===============
