@@ -3,7 +3,11 @@ Energy Data Sources
 
 This repository contains URL links & descriptions to a collection of energy-related data sources for Ireland.  
 
-All of the data listed here is either __open access__ or is accessible via an application process with the relevant body (these sources are marked explicitely as __`Available upon request`__).   
+All data listed here is either: 
+- [open access](https://en.wikipedia.org/wiki/Open_access) (the default)   
+- `Available upon request`
+  - i.e. is accessible via an application process with the relevant body
+- `Available upon purchase`
 
 __Have a new data source to add or found a broken data source URL?__ Great! Please email us at `energy-modelling-ireland-admin@googlegroups.com` with:
 
@@ -17,9 +21,12 @@ URL link to source:  https://www.ucd.ie/issda/data/
 The Raw Data file (if there is currently no URL to the data source)
 ```
 
+> See the [Data Wishlist](#data-wishlist) for a list of data sources that we would love but do not yet have!
+
 __Want to contribute through Github instead?__ Please follow the [`how-to-contribute`](#how-to-contribute) guide below.  All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
 
 
+---
 ---
 
 
@@ -37,10 +44,11 @@ Table of Contents
 * [Emissions](#emissions)
 * [Waste and Landfill](#waste-and-landfill)
 * [Weather](#weather)
+* [Data Wishlist](#data-wishlist)
 * [How to Contribute?](#how-to-contribute)
 <!--te-->
 
-
+---
 ---
 
 
@@ -58,6 +66,7 @@ UK Energy Research Centre (UKERC) Data Catalogue
 - https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Related&WantComp=40
 
 
+---
 ---
 
 
@@ -118,6 +127,7 @@ SEAI Measurement & Reporting Data (M&R)
 
 
 ---
+---
 
 
 Building Fabric
@@ -154,6 +164,9 @@ Air Tightness UK Field Data houses post-2006 (2010)
 - Air-tightness field data for dwellings in the UK.
   - "This paper reports on the air permeability test results of 287 post-2006 new-build dwellings in the UK."
 - https://doi.org/10.1016/j.buildenv.2010.04.011
+
+
+---
 ---
 
 
@@ -173,6 +186,7 @@ Commission for Regulation of Utilities (CRU) Smart Meter Trials
 
 
 ---
+---
 
 
 Geodata
@@ -190,6 +204,7 @@ Shane McGuinness' (of Trinity College) Dublin Postcodes Geometries
 - https://github.com/rdmolony/dublin-postcode-shapefiles) 
 
 
+---
 ---
 
 
@@ -218,6 +233,7 @@ Chartered Institute of Building Services Engineers (CIBSE) Guide F: Energy Effic
 
 
 ---
+---
 
 
 Emissions
@@ -237,6 +253,8 @@ Environmental Protection Agency (EPA) Licensing and Permitting
 
 
 ---
+---
+
 
 Waste and Landfill
 ==================
@@ -247,7 +265,10 @@ Environmental Protection Agency (EPA) Licensing and Permitting
 - As part of their licencing and permits Emissions Trading System (ETS) industrial buildings have to submit an annual environmental report.
 - URL: http://epa.ie/licensing/
 
+
 ---
+---
+
 
 Weather
 =======
@@ -272,6 +293,8 @@ EnergyPLUS Weather Data
 
 
 ---
+---
+
 
 Guides
 ======
@@ -284,6 +307,18 @@ CIBSE Guide A
 - URL: https://www.cibse.org/knowledge/knowledge-items/detail?id=a0q20000008I79JAAS
 - Blog: https://www.cibsejournal.com/general/guide-a-cibses-essential-guide-to-environmental-design-explained/
 
+
+---
+---
+
+
+Data Wishlist
+=============
+- Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
+- Netork Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
+
+
+---
 ---
 
 
