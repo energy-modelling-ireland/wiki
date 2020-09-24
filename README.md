@@ -34,7 +34,7 @@ Table of Contents
 * [Appliance Usage](#appliance-usage)
 * [Geodata](#geodata)
 * [Benchmarks](#benchmarks)
-* [Emissions, Waste and Landfill](#emissions)
+* [Emissions](#emissions)
 * [Waste and Landfill](#waste-and-landfill)
 * [Weather](#weather)
 * [How to Contribute?](#how-to-contribute)
