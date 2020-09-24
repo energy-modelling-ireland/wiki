@@ -93,6 +93,8 @@ Environmental Protection Agency (EPA) Annual Energy Use
 -------------------------------------------------------
 - Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings 
 - http://epa.ie/licensing/
+- Rebecca Cachia (Codema - Dublin's Energy Agency) extracted all energy data for 47 industrial buildings in Dublin (November, 2019).
+- https://zenodo.org/record/4048377
 
 Mortar
 ------
