@@ -3,7 +3,7 @@ Energy Data Sources
 
 This repository contains URL links & descriptions to a collection of energy-related data sources for Ireland.  
 
-All of the data listed here is either open access or is accessible via an application process with the relevant body (these sources will be marked explicitely as `Available upon request`).   
+All of the data listed here is either __open access__ or is accessible via an application process with the relevant body (these sources are marked explicitely as __`Available upon request`__).   
 
 __Have a new data source to add or found a broken data source URL?__ Great! Please email us at `energy-modelling-ireland-admin@googlegroups.com` with:
 
@@ -13,9 +13,11 @@ Name of source:  Irish Social Science Data Archive (ISSDA)
 Short description:  "The Irish Social Science Data Archive (ISSDA) is Ireland’s leading centre for quantitative data acquisition, preservation, and dissemination. Based at UCD Library, its mission is to ensure wide access to quantitative datasets in the social sciences, and to advance the promotion of international comparative studies of the Irish economy and Irish society."
 
 URL link to source:  https://www.ucd.ie/issda/data/
+
+The Raw Data file (if there is currently no URL to the data source)
 ```
 
-Want to contribute through Github instead? Please follow the [`how-to-contribute`](#how-to-contribute) guide below.  All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
+__Want to contribute through Github instead?__ Please follow the [`how-to-contribute`](#how-to-contribute) guide below.  All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
 
 
 ---
@@ -67,6 +69,21 @@ Commission for Regulation of Utilities (CRU) Smart Meter Trials
 - Gas meter data at 15-minute resolution for a representative sample of nearly 2,000 Irish homes between 2010-11
 - https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
 
+Carbon Trust Advanced Metering Trial (2004-2006)
+------------------------------------------------
+- `Available upon request`
+- Half hourly gas and electricity (and water) consumption data ( not all utilities were monitored at every site) gathered during the Carbon Trusts Advanced Metering for SMEs project (2004-2006) in United Kingdom Regions of England, Wales and Scotland.  
+- Meter readings are available for small and medium-sized enterprises (SMEs).  The sectors covered are:
+  - Community, social and personal activities
+  - Education
+  - Financial and business services
+  - Government
+  - Health and social work
+  - Manufacturing
+  - Other sectors
+  - Wholesale and retail trade
+- https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl/?WantComp=30
+
 Gas Network's Ireland Networked Gas Consumption
 -----------------------------------------------
 - Annual Gas consumption data for all Irish Power Plants, Residential & Non-Residential
@@ -91,8 +108,11 @@ Building Fabric
 
 SEAI's 2016 Census Small Area Statistics
 ----------------------------------------
-- Building data (period built, dwelling type ...) for all households in Ireland who participated in the 2016 Census at areas of population generally comprising between 80 and 120 dwellings.
+- Building data (period built, dwelling type, boiler type ...) for all households in Ireland who participated in the 2016 Census at Small Area level (i.e. areas of population generally comprising between 80 and 120 dwellings). 
 - https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/
+- Click `Small Areas (18,641) -` to download a `csv` file containing the Small Area Statistics.
+- Click `SAPS 2016 Glossary (XLS 38KB)` to download an `xlsx` file containing the column name decodings (for example: from `T6_1_HB_H` decodes to `House/Bungalow (No. of households)`).
+  - See [drem](https://github.com/codema-dev/drem) for more information on cleaning this data set for Dublin using Python.
 
 SEAI's BER Public Search
 ------------------------
@@ -134,6 +154,7 @@ SEAI's 2016 Census Small Area Geometries
 ----------------------------------------
 - Mappable (in QGIS) geometries for all Small Areas.
 - https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/
+- Click `Small Areas UG`
 
 Shane McGuinness' (of Trinity College) Dublin Postcodes Geometries
 ------------------------------------------------------------------
