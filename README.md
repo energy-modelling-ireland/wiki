@@ -203,7 +203,10 @@ Shane McGuinness' (of Trinity College) Dublin Postcodes Geometries
 - Mappable (in QGIS) shapefile geometries for all Dublin Postcodes.
 - https://github.com/rdmolony/dublin-postcode-shapefiles) 
 
-
+UCD Spatial Datasets
+------------------------------------------------------------------
+- Collection of Irish GIS datasets sorted by category.
+- https://libguides.ucd.ie/gisguide/FindSpatialData
 ---
 ---
 
