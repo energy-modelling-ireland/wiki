@@ -316,6 +316,7 @@ Data Wishlist
 =============
 - Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
 - Netork Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
+- Pre and Post Retrofit Costs & Fabric Data
 
 
 ---
