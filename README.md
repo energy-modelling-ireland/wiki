@@ -8,6 +8,7 @@ All data listed here is either:
 - `Available upon request`
   - i.e. is accessible via an application process with the relevant body
 - `Available upon purchase`
+- `Available upon subscription`
 
 __Have a new data source to add or found a broken data source URL?__ Great! Please email us at `energy-modelling-ireland-admin@googlegroups.com` with:
 
@@ -165,6 +166,13 @@ Air Tightness UK Field Data houses post-2006 (2010)
   - "This paper reports on the air permeability test results of 287 post-2006 new-build dwellings in the UK."
 - https://doi.org/10.1016/j.buildenv.2010.04.011
 
+SEAI Better Homes
+-----------------
+- `Available upon request`
+- _Irish Residential Energy Efficiency Program Data_ used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
+  - "The Irish retrofit housing scheme dataset contains quantitative data for residential buildings that have completed energy upgrades through one of SEAI’s programs. Homeowners apply to SEAI for grants which subsidize the cost of their upgrades. Maintained by SEAI, the dataset comprises 265,182 retrofitted buildings and includes homes which have been upgraded through one of SEAI’s energy upgrade programs such as Better Energy Homes, Warmer Homes, Better Energy Communities, and the Deep Retrofit pilot program"
+- URL:  https://www.seai.ie
+
 
 ---
 ---
@@ -201,8 +209,24 @@ SEAI's 2016 Census Small Area Geometries
 Shane McGuinness' (of Trinity College) Dublin Postcodes Geometries
 ------------------------------------------------------------------
 - Mappable (in QGIS) shapefile geometries for all Dublin Postcodes.
-- https://github.com/rdmolony/dublin-postcode-shapefiles) 
+- https://github.com/rdmolony/dublin-postcode-shapefiles)
 
+GeoDirectory
+------------
+- `Available upon subscription`
+- GeoDirectory was established by An Post and Ordnance Survey Ireland over 20 years ago to manage and maintain a database used as the de-facto standard of addressing in Ireland. The database contains every residential and commercial building in Ireland with details for each address - location codes (3 types), EDs, Small Areas and Unique Building Identifier.  As well as information such as the type of property (Terraced/ Semi Detached, Industrial Unit,  etc), other details include whether  the property is a new build, occupied, vacant or derelict and the type of business being undertaken in the building if it is commercial. 
+- UCD Staff & Students: https://libguides.ucd.ie/gisguide/GeoDirectory
+- URL: https://www.geodirectory.ie/
+- Used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
+
+Ordinance Survey Ireland (OSI)
+------------------------------
+- Ordnance Survey Ireland has evolved from the Ordnance Survey Office which was established in 1824, later becoming a state body under the Ordnance Survey Ireland Act 2001. Under this Act, Ordnance Survey Ireland continued its mainstream public service function of creating and maintaining the definitive mapping records of the State and also assumed the commercial function assigned to it under the Act of developing its commercial business and sales revenues.  The work of OSi is essential to the infrastructural development of Ireland. There is a growing recognition among decision makers that knowledge and understanding of location is a key component in effective decision making. To this end, OSi has designed and developed a standardised, authoritative digital referencing framework that enables the consistent referencing and integration of national data related to location. This framework, known as PRIME2, provides the means for GIS data users to accurately integrate and use multiple data sources to provide for better analysis and decision making, optimising resources and delivering efficiencies.
+- Contains `Open-access`, `Available upon purchase` & `Available upon subscription` data
+- Open-data: https://data.gov.ie/organization/ordnance-survey-ireland
+- Open-data portal: https://data-osi.opendata.arcgis.com/
+- URL: https://www.osi.ie/
+- _Dublin City Building footprint_ used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
 
 ---
 ---
