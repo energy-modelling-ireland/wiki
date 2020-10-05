@@ -26,6 +26,7 @@ The Raw Data file (if there is currently no URL to the data source)
 
 __Want to contribute through Github instead?__ Please follow the [`how-to-contribute`](#how-to-contribute) guide below.  All changes will be reviewed prior to being published on this website so don't worry about breaking anything with your edits :smiley: 
 
+> Please upload your data to [Zenodo](https://zenodo.org) and link it here via URL rather than uploading it to this Github repository.
 
 ---
 ---
