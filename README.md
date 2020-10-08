@@ -28,6 +28,31 @@ __Want to contribute through Github instead?__ Please follow the [`how-to-contri
 
 > Please upload your data to [Zenodo](https://zenodo.org) and link it here via URL rather than uploading it to this Github repository.
 
+Special thanks to input from researchers at:
+
+<a href="https://www.codema.ie/">
+  <img src="images/logos/codema.png" height="40">
+</a>
+&emsp;
+<a href="http://www.nuigalway.ie/">
+  <img src="images/logos/nuigalway.png" height="30">
+</a>
+&emsp;
+<a href="https://www.tudublin.ie/">
+  <img src="images/logos/tudublin.png" height="45">
+</a>
+&emsp;
+<a href="https://www.ucc.ie/en/">
+  <img src="images/logos/ucc.png" height="30">
+</a>
+&emsp;
+<a href="https://www.ucd.ie/">
+  <img src="images/logos/ucd.png" height="50">
+</a>
+&emsp;
+
+
+
 ---
 ---
 
@@ -355,11 +380,11 @@ Here’s a quick guide to editing GitHub Markdown files on GitHub, if you’re n
 
 - Scroll up to the top of this page and Click on the `README.md` file
 
-![Click README file](images/click-readme-file.PNG)
+![Click README file](images/contributing/click-readme-file.PNG)
 
 - You should now be able to see a pencil icon in the top-right corner of the page.  Click it!
 
-![Click README pencil](images/click-readme-pencil.PNG)
+![Click README pencil](images/contributing/click-readme-pencil.PNG)
 
 - Scroll down and make changes ([here’s a lovely Markdown tutorial](https://commonmark.org/help/tutorial/) if you need it) in the following format:
 
@@ -372,15 +397,15 @@ Title of Data Source
 
 ```
 
-![Make changes](images/proposed-changes-to-readme.PNG)
+![Make changes](images/contributing/proposed-changes-to-readme.PNG)
 
 - Scroll down to `Propose Changes`, summarise the changes & add a quick explanation on why the change should be made.
 
-![Propose changes](images/propose-changes.PNG)
+![Propose changes](images/contributing/propose-changes.PNG)
 
 - Click `Create pull request`. Thank you! 🎉
 
-![Create pull request](images/create-pull-request.PNG)
+![Create pull request](images/contributing/create-pull-request.PNG)
 
 > Adapted from [`list-of-python-api-wrappers`](https://github.com/discdiver/list-of-python-api-wrappers/blob/master/readme.md) and this excellent [Medium.com article](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b)
 
