@@ -92,6 +92,20 @@ UK Energy Research Centre (UKERC) Data Catalogue
 - Compilation of energy related publications for the United Kingdom
 - https://ukerc.rl.ac.uk/DC/cgi-bin/edc_search.pl?GoButton=Related&WantComp=40
 
+Ordinance Survey Ireland (OSI)
+------------------------------
+- Ordnance Survey Ireland has evolved from the Ordnance Survey Office which was established in 1824, later becoming a state body under the Ordnance Survey Ireland Act 2001. Under this Act, Ordnance Survey Ireland continued its mainstream public service function of creating and maintaining the definitive mapping records of the State and also assumed the commercial function assigned to it under the Act of developing its commercial business and sales revenues.  The work of OSi is essential to the infrastructural development of Ireland. There is a growing recognition among decision makers that knowledge and understanding of location is a key component in effective decision making. To this end, OSi has designed and developed a standardised, authoritative digital referencing framework that enables the consistent referencing and integration of national data related to location. This framework, known as PRIME2, provides the means for GIS data users to accurately integrate and use multiple data sources to provide for better analysis and decision making, optimising resources and delivering efficiencies.
+- Contains `Open-access`, `Available upon purchase` & `Available upon subscription` data
+- Open-data: https://data.gov.ie/organization/ordnance-survey-ireland
+- Open-data portal: https://data-osi.opendata.arcgis.com/
+- URL: https://www.osi.ie/
+- _Dublin City Building footprint_ used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
+
+UCD Spatial Data for Ireland
+----------------------------
+- Contains a wide category of GIS files for desired applications filtered accordingly
+- URL: https://libguides.ucd.ie/gisguide/FindSpatialData
+
 
 ---
 ---
@@ -245,14 +259,6 @@ GeoDirectory
 - URL: https://www.geodirectory.ie/
 - Used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
 
-Ordinance Survey Ireland (OSI)
-------------------------------
-- Ordnance Survey Ireland has evolved from the Ordnance Survey Office which was established in 1824, later becoming a state body under the Ordnance Survey Ireland Act 2001. Under this Act, Ordnance Survey Ireland continued its mainstream public service function of creating and maintaining the definitive mapping records of the State and also assumed the commercial function assigned to it under the Act of developing its commercial business and sales revenues.  The work of OSi is essential to the infrastructural development of Ireland. There is a growing recognition among decision makers that knowledge and understanding of location is a key component in effective decision making. To this end, OSi has designed and developed a standardised, authoritative digital referencing framework that enables the consistent referencing and integration of national data related to location. This framework, known as PRIME2, provides the means for GIS data users to accurately integrate and use multiple data sources to provide for better analysis and decision making, optimising resources and delivering efficiencies.
-- Contains `Open-access`, `Available upon purchase` & `Available upon subscription` data
-- Open-data: https://data.gov.ie/organization/ordnance-survey-ireland
-- Open-data portal: https://data-osi.opendata.arcgis.com/
-- URL: https://www.osi.ie/
-- _Dublin City Building footprint_ used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
 
 ---
 ---
