@@ -254,6 +254,12 @@ Ordinance Survey Ireland (OSI)
 - URL: https://www.osi.ie/
 - _Dublin City Building footprint_ used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
 
+
+UCD Spatial Data & Other Datasets for Ireland
+------------------------------------------------------------------
+Contains a wide category of GIS files for desired applications filtered accordingly
+  - https://libguides.ucd.ie/gisguide/FindSpatialData
+
 ---
 ---
 
