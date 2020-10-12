@@ -61,6 +61,7 @@ Table of Contents
 
 <!--ts-->
 * [Data Wishlist](#data-wishlist)
+* [Publications](#publications)
 * [Data Catalogues](#data-catalogues)
 * [Energy Consumption](#energy-consumption)
 * [Building Fabric](#building-fabric)
@@ -70,7 +71,6 @@ Table of Contents
 * [Emissions](#emissions)
 * [Waste and Landfill](#waste-and-landfill)
 * [Weather](#weather)
-* [Publications](#publications)
 * [How to Contribute?](#how-to-contribute)
 <!--te-->
 
@@ -83,6 +83,14 @@ Data Wishlist
 - Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
 - Netork Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
 - Pre and Post Retrofit Costs & Fabric Data
+
+
+---
+---
+
+
+Publications
+============
 
 
 ---
@@ -372,14 +380,6 @@ CIBSE Guide A
 - A UK technical reference source for designers and installers of heating, ventilating and air conditionings services.
 - URL: https://www.cibse.org/knowledge/knowledge-items/detail?id=a0q20000008I79JAAS
 - Blog: https://www.cibsejournal.com/general/guide-a-cibses-essential-guide-to-environmental-design-explained/
-
-
----
----
-
-
-Publications
-============
 
 
 ---
