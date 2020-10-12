@@ -52,7 +52,6 @@ Special thanks to input from researchers at:
 &emsp;
 
 
-
 ---
 ---
 
@@ -61,7 +60,7 @@ Table of Contents
 =================
 
 <!--ts-->
-* [Table of Contents](#table-of-contents)
+* [Data Wishlist](#data-wishlist)
 * [Data Catalogues](#data-catalogues)
 * [Energy Consumption](#energy-consumption)
 * [Building Fabric](#building-fabric)
@@ -71,9 +70,20 @@ Table of Contents
 * [Emissions](#emissions)
 * [Waste and Landfill](#waste-and-landfill)
 * [Weather](#weather)
-* [Data Wishlist](#data-wishlist)
+* [Publications](#publications)
 * [How to Contribute?](#how-to-contribute)
 <!--te-->
+
+
+---
+---
+
+Data Wishlist
+=============
+- Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
+- Netork Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
+- Pre and Post Retrofit Costs & Fabric Data
+
 
 ---
 ---
@@ -368,11 +378,8 @@ CIBSE Guide A
 ---
 
 
-Data Wishlist
-=============
-- Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
-- Netork Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
-- Pre and Post Retrofit Costs & Fabric Data
+Publications
+============
 
 
 ---
