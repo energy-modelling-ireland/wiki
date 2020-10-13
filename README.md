@@ -72,6 +72,7 @@ Table of Contents
 * [Energy Consumption](#energy-consumption)
 * [Emissions](#emissions)
 * [Geodata](#geodata)
+* [Policy](#policy)
 * [Publications](#publications)
 * [Technical References](#technical-references)
 * [Waste and Landfill](#waste-and-landfill)
@@ -329,6 +330,20 @@ GeoDirectory
 ---
 
 
+Policy
+======
+Energy Performance of Buildings Directive
+-----------------------------------------
+- The EU has established a legislative framework that includes the Energy Performance of Buildings Directive 2010/31/EU (EPBD) and the Energy Efficiency Directive 2012/27/EU. Part L of the Building Regulations Conservation of Fuel and Energy in Dwellings sets the energy and carbon dioxide emissions requirements for new and existing buildings subject to the Building Regulations.
+- Latest Irish-EPBD policy & reports: https://www.housing.gov.ie/housing/building-standards/energy-performance-buildings/energy-performance-buildings
+- Latest standards energy efficiency standards for new dwellings: https://www.housing.gov.ie/housing/building-standards/energy-performance-buildings/new-energy-efficiency-standards-new
+- Cost Optimal Residential Report Ireland 2018: https://www.housing.gov.ie/housing/building-standards/energy-performance-buildings/cost-optimal-residential-report-ireland-2018
+
+
+---
+---
+
+
 Publications
 ============
 
@@ -408,6 +423,13 @@ TABULA
 - Webtool: http://webtool.building-typology.eu/?c=all
 - Guide: http://www.building-typology.eu/downloads/public/docs/TABULA_WebTool_UserGuide.pdf
 - Report: http://www.building-typology.eu
+
+BER Map
+-------
+- "We have developed a BER map of Ireland that will give you access to building energy information on dwelling clusters within Ireland. This map has been designed to showcase the benefits of using geo-located BER data. The underlying data has also been provided below to allow others to undertake their own analysis and mapping projects. The data was originally collected by BER Assessors when they completed a BER assessment using the Dwelling Energy Assessment Procedure (DEAP) software. The small area clusters on the map correspond to ‘Small Areas’ as defined by the Central Statistical Office. Small Areas are areas of population generally comprising between 80 and 120 dwellings created by The National Institute of Regional and Spatial Analysis (NIRSA) on behalf of the Ordnance Survey Ireland (OSi) in consultation with CSO. The map only contains Building Energy Rating Information at the Small Area level for dwellings that have had a BER completed and where their address has been successfully geo-located using SEAI’s address matching algorithm. Please note that the current BER Map only contains information on 33% of the total Irish residential dwelling stock. Although the information is very accurate, in some cases, the number of successfully mapped dwellings in a Small Area can be a relatively small proportion of the total number of dwellings in that area."
+- Webtool: https://www.seai.ie/technologies/seai-maps/ber-map/ 
+- Raw Data: https://www.seai.ie/technologies/seai-maps/ber-map/BER_data.csv
+- Glossary: https://www.seai.ie/technologies/seai-maps/ber-map/Description-of-variables-for-BER-map.xlsx
 
 
 ---
