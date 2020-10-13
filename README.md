@@ -34,6 +34,10 @@ Special thanks to input from researchers at:
   <img src="images/logos/codema.png" height="40">
 </a>
 &emsp;
+<a href="https://messo.cit.ie/">
+  <img src="images/logos/cit.png" height="40">
+</a>
+&emsp;
 <a href="http://www.nuigalway.ie/">
   <img src="images/logos/nuigalway.png" height="30">
 </a>
