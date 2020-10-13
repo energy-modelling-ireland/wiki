@@ -64,19 +64,19 @@ Table of Contents
 =================
 
 <!--ts-->
-* [Data Wishlist](#data-wishlist)
-* [Publications](#publications)
-* [Data Catalogues](#data-catalogues)
-* [Energy Consumption](#energy-consumption)
-* [Building Fabric](#building-fabric)
 * [Appliance Usage](#appliance-usage)
-* [Geodata](#geodata)
 * [Benchmarks](#benchmarks)
+* [Building Fabric](#building-fabric)
+* [Data Catalogues](#data-catalogues)
+* [Data Wishlist](#data-wishlist)
+* [Energy Consumption](#energy-consumption)
 * [Emissions](#emissions)
+* [Geodata](#geodata)
+* [Publications](#publications)
+* [Technical References](#technical-references)
 * [Waste and Landfill](#waste-and-landfill)
 * [Weather](#weather)
 * [Webtools](#webtools)
-* [Guides](#guides)
 * [How to Contribute?](#how-to-contribute)
 <!--te-->
 
@@ -84,19 +84,95 @@ Table of Contents
 ---
 ---
 
-Data Wishlist
-=============
-- Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
-- Netork Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
-- Pre and Post Retrofit Costs & Fabric Data
+
+Appliance Usage
+===============
+
+United Kingdom Time Use Survey, 2014-2015
+-----------------------------------------
+- "The United Kingdom Time Use Survey, 2014-2015 (UKTUS) is a large-scale household survey that provides data on how people aged 8 years and over in the UK spend their time. At the heart of the survey is a time diary instrument in which respondents record their daily activities. Time diaries record events sequences for prescribed periods, usually a single day."
+- https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8128
+
+Commission for Regulation of Utilities (CRU) Smart Meter Trials
+---------------------------------------------------------------
+- `Available upon request`
+- __Survey of participants links typical appliance usage to building IDs__ 
+- https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
 
 
 ---
 ---
 
 
-Publications
-============
+Benchmarks
+==========
+
+Chartered Institute of Building Services Engineers (CIBSE) TM46: Energy Benchmarks (2008)
+-----------------------------------------------------------------------------------------
+- `Available on purchase`
+  - €55
+- Commercial sector building fossil fuel and electricity benchmarks by building type from a CIBSE Study 'Energy & CO2 emissions benchmarks for non-domestic buildings' from 2007.
+- __Note:__ CIBSE has updated these benchmarks in Guide F (2012)
+  - "This platform [energy benchmarking tool] aims to gradually update and replace the energy benchmarks in table 20.1 of CIBSE Guide F: Energy Efficiency in Buildings."
+- URL: https://www.cibse.org/Knowledge/knowledge-items/detail?id=a0q20000008I7evAAC
+- Benchmarking tool: https://cibse.org/knowledge/energy-benchmarking-tool-beta-version
+
+Chartered Institute of Building Services Engineers (CIBSE) Guide F: Energy Efficiency in Buildings (2012)
+---------------------------------------------------------------------------------------------------------
+- `Available on purchase`
+  - €114
+- Commercial sector building fossil fuel and electricity benchmarks by building type used by the CIBSE Energy Benchmarking Tool
+- __Note:__ CIBSE is phasing out these benchmarks in favour of DEC-based benchmarks (see UK DEC above) 
+  - "Revised benchmarks have been introduced for some building types (see below) which are based on the Display Energy Certificates (these covered more than 120k DECs – for details, see full report) analysed by UCL under a jointly sponsored project."
+- URL: https://www.cibse.org/Knowledge/knowledge-items/detail?id=a0q20000008I7oTAAS
+- Benchmarking tool: https://cibse.org/knowledge/energy-benchmarking-tool-beta-version
+
+
+---
+---
+
+
+Building Fabric
+===============
+
+CSO 2016 Census Small Area Statistics
+-------------------------------------
+- Building data (period built, dwelling type, boiler type ...) for all households in Ireland who participated in the 2016 Census at Small Area level (i.e. areas of population generally comprising between 80 and 120 dwellings). 
+- https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/
+- Click `Small Areas (18,641) -` to download a `csv` file containing the Small Area Statistics.
+- Click `SAPS 2016 Glossary (XLS 38KB)` to download an `xlsx` file containing the column name decodings (for example: from `T6_1_HB_H` decodes to `House/Bungalow (No. of households)`).
+  - See [drem](https://github.com/codema-dev/drem) for more information on cleaning this data set for Dublin using Python.
+
+SEAI's BER Public Search
+------------------------
+- Building data (type of heating, building geometry ...) for all households in Ireland who have had their household's BER rating evaluated.
+- Updated nightly
+- https://ndber.seai.ie/BERResearchTool/Register/Register.aspx
+
+Valuation Office API
+--------------------
+- Building data (floor areas ...) for all Commercial buildings in Ireland
+- __Note:__ Apply benchmarks to these floor areas to estimate commercial building energy usage
+- https://opendata.valoff.ie/api/
+
+Air Tightness Ireland Field Data houses 1944-2008 (2012)
+--------------------------------------------------------
+- Air-tightness field data for dwellings in Ireland.
+  - "Air permeability test results of 28 houses built between 1944 and 2008 and at varying stages of retrofit."
+- https://doi.org/10.1016/j.buildenv.2011.11.016
+
+Air Tightness UK Field Data houses post-2006 (2010)
+---------------------------------------------------
+- Air-tightness field data for dwellings in the UK.
+  - "This paper reports on the air permeability test results of 287 post-2006 new-build dwellings in the UK."
+- https://doi.org/10.1016/j.buildenv.2010.04.011
+
+SEAI Better Homes
+-----------------
+- `Available upon request`
+- _Irish Residential Energy Efficiency Program Data_ used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
+  - "The Irish retrofit housing scheme dataset contains quantitative data for residential buildings that have completed energy upgrades through one of SEAI’s programs. Homeowners apply to SEAI for grants which subsidize the cost of their upgrades. Maintained by SEAI, the dataset comprises 265,182 retrofitted buildings and includes homes which have been upgraded through one of SEAI’s energy upgrade programs such as Better Energy Homes, Warmer Homes, Better Energy Communities, and the Deep Retrofit pilot program"
+- URL:  https://www.seai.ie
 
 
 ---
@@ -129,6 +205,17 @@ UCD Spatial Data for Ireland
 ----------------------------
 - Contains a wide category of GIS files for desired applications filtered accordingly
 - URL: https://libguides.ucd.ie/gisguide/FindSpatialData
+
+
+---
+---
+
+
+Data Wishlist
+=============
+- Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
+- Netork Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
+- Pre and Post Retrofit Costs & Fabric Data
 
 
 ---
@@ -195,66 +282,20 @@ SEAI Measurement & Reporting Data (M&R)
 ---
 
 
-Building Fabric
-===============
+Emissions
+=========
 
-CSO 2016 Census Small Area Statistics
--------------------------------------
-- Building data (period built, dwelling type, boiler type ...) for all households in Ireland who participated in the 2016 Census at Small Area level (i.e. areas of population generally comprising between 80 and 120 dwellings). 
-- https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/
-- Click `Small Areas (18,641) -` to download a `csv` file containing the Small Area Statistics.
-- Click `SAPS 2016 Glossary (XLS 38KB)` to download an `xlsx` file containing the column name decodings (for example: from `T6_1_HB_H` decodes to `House/Bungalow (No. of households)`).
-  - See [drem](https://github.com/codema-dev/drem) for more information on cleaning this data set for Dublin using Python.
+SEAI Conversion Factors
+-----------------------
+- Calorific values, Emission factors, Fuel densities, Primary energy conversion factors
+- URL: https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/
+- Derivation Methodology: https://www.seai.ie/publications/DEAP-Elec-Factors-2017.pdf
 
-SEAI's BER Public Search
-------------------------
-- Building data (type of heating, building geometry ...) for all households in Ireland who have had their household's BER rating evaluated.
-- Updated nightly
-- https://ndber.seai.ie/BERResearchTool/Register/Register.aspx
-
-Valuation Office API
---------------------
-- Building data (floor areas ...) for all Commercial buildings in Ireland
-- __Note:__ Apply benchmarks to these floor areas to estimate commercial building energy usage
-- https://opendata.valoff.ie/api/
-
-Air Tightness Ireland Field Data houses 1944-2008 (2012)
---------------------------------------------------------
-- Air-tightness field data for dwellings in Ireland.
-  - "Air permeability test results of 28 houses built between 1944 and 2008 and at varying stages of retrofit."
-- https://doi.org/10.1016/j.buildenv.2011.11.016
-
-Air Tightness UK Field Data houses post-2006 (2010)
----------------------------------------------------
-- Air-tightness field data for dwellings in the UK.
-  - "This paper reports on the air permeability test results of 287 post-2006 new-build dwellings in the UK."
-- https://doi.org/10.1016/j.buildenv.2010.04.011
-
-SEAI Better Homes
------------------
-- `Available upon request`
-- _Irish Residential Energy Efficiency Program Data_ used in [Ali et al, 2020](https://doi.org/10.1016/j.apenergy.2020.115834)
-  - "The Irish retrofit housing scheme dataset contains quantitative data for residential buildings that have completed energy upgrades through one of SEAI’s programs. Homeowners apply to SEAI for grants which subsidize the cost of their upgrades. Maintained by SEAI, the dataset comprises 265,182 retrofitted buildings and includes homes which have been upgraded through one of SEAI’s energy upgrade programs such as Better Energy Homes, Warmer Homes, Better Energy Communities, and the Deep Retrofit pilot program"
-- URL:  https://www.seai.ie
-
-
----
----
-
-
-Appliance Usage
-===============
-
-United Kingdom Time Use Survey, 2014-2015
------------------------------------------
-- "The United Kingdom Time Use Survey, 2014-2015 (UKTUS) is a large-scale household survey that provides data on how people aged 8 years and over in the UK spend their time. At the heart of the survey is a time diary instrument in which respondents record their daily activities. Time diaries record events sequences for prescribed periods, usually a single day."
-- https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8128
-
-Commission for Regulation of Utilities (CRU) Smart Meter Trials
----------------------------------------------------------------
-- `Available upon request`
-- __Survey of participants links typical appliance usage to building IDs__ 
-- https://www.ucd.ie/issda/data/commissionforenergyregulationcer/
+Environmental Protection Agency (EPA) Licensing and Permitting
+------------------------------------------------------------
+- Industrial Emissions
+- As part of their licencing and permits Emissions Trading System (ETS) industrial buildings have to submit an annual environmental report.
+- URL: http://epa.ie/licensing/
 
 
 ---
@@ -288,48 +329,24 @@ GeoDirectory
 ---
 
 
-Benchmarks
-==========
-
-Chartered Institute of Building Services Engineers (CIBSE) TM46: Energy Benchmarks (2008)
------------------------------------------------------------------------------------------
-- `Available on purchase`
-  - €55
-- Commercial sector building fossil fuel and electricity benchmarks by building type from a CIBSE Study 'Energy & CO2 emissions benchmarks for non-domestic buildings' from 2007.
-- __Note:__ CIBSE has updated these benchmarks in Guide F (2012)
-  - "This platform [energy benchmarking tool] aims to gradually update and replace the energy benchmarks in table 20.1 of CIBSE Guide F: Energy Efficiency in Buildings."
-- URL: https://www.cibse.org/Knowledge/knowledge-items/detail?id=a0q20000008I7evAAC
-- Benchmarking tool: https://cibse.org/knowledge/energy-benchmarking-tool-beta-version
-
-Chartered Institute of Building Services Engineers (CIBSE) Guide F: Energy Efficiency in Buildings (2012)
----------------------------------------------------------------------------------------------------------
-- `Available on purchase`
-  - €114
-- Commercial sector building fossil fuel and electricity benchmarks by building type used by the CIBSE Energy Benchmarking Tool
-- __Note:__ CIBSE is phasing out these benchmarks in favour of DEC-based benchmarks (see UK DEC above) 
-  - "Revised benchmarks have been introduced for some building types (see below) which are based on the Display Energy Certificates (these covered more than 120k DECs – for details, see full report) analysed by UCL under a jointly sponsored project."
-- URL: https://www.cibse.org/Knowledge/knowledge-items/detail?id=a0q20000008I7oTAAS
-- Benchmarking tool: https://cibse.org/knowledge/energy-benchmarking-tool-beta-version
+Publications
+============
 
 
 ---
 ---
 
 
-Emissions
-=========
+Technical References
+====================
 
-SEAI Conversion Factors
------------------------
-- Calorific values, Emission factors, Fuel densities, Primary energy conversion factors
-- URL: https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/
-- Derivation Methodology: https://www.seai.ie/publications/DEAP-Elec-Factors-2017.pdf
-
-Environmental Protection Agency (EPA) Licensing and Permitting
-------------------------------------------------------------
-- Industrial Emissions
-- As part of their licencing and permits Emissions Trading System (ETS) industrial buildings have to submit an annual environmental report.
-- URL: http://epa.ie/licensing/
+CIBSE Guide A
+-------------
+- `Available on purchase`
+  - €98
+- A UK technical reference source for designers and installers of heating, ventilating and air conditionings services.
+- URL: https://www.cibse.org/knowledge/knowledge-items/detail?id=a0q20000008I79JAAS
+- Blog: https://www.cibsejournal.com/general/guide-a-cibses-essential-guide-to-environmental-design-explained/
 
 
 ---
@@ -370,23 +387,6 @@ EnergyPLUS Weather Data
 -----------------------
 - Weather data for more than 2100 locations are now available in EnergyPlus weather format — 1042 locations in the USA, 71 locations in Canada, and more than 1000 locations in 100 other countries throughout the world.
 - URL: https://energyplus.net/weather
-
-
----
----
-
-
-Guides
-======
-
-CIBSE Guide A
--------------
-- `Available on purchase`
-  - €98
-- A UK technical reference source for designers and installers of heating, ventilating and air conditionings services.
-- URL: https://www.cibse.org/knowledge/knowledge-items/detail?id=a0q20000008I79JAAS
-- Blog: https://www.cibsejournal.com/general/guide-a-cibses-essential-guide-to-environmental-design-explained/
-
 
 ---
 ---
