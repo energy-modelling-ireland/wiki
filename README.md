@@ -28,7 +28,7 @@ __Want to contribute through Github instead?__ Please follow the [`how-to-contri
 
 > Please upload your data to [Zenodo](https://zenodo.org) and link it here via URL rather than uploading it to this Github repository.
 
-Special thanks to input from researchers at:
+Special thanks to researchers at:
 
 <a href="https://www.codema.ie/">
   <img src="images/logos/codema.png" height="40">
