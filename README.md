@@ -207,6 +207,12 @@ UCD Spatial Data for Ireland
 - Contains a wide category of GIS files for desired applications filtered accordingly
 - URL: https://libguides.ucd.ie/gisguide/FindSpatialData
 
+World Urban Database and Access Portal Tools (WUDAPT)
+-----------------------------------------------------
+- The World Urban Database and Access Portal Tools (WUDAPT) project seeks to acquire and store urban data using a common framework and to link these data to available methods for climate analysis and for current and what-if scenario development. Present global-scale urban data and land use at the city level is derived from global land cover data sets; examples include AVHRR, MODIS GLCF and ESA GlobCover
+- Includes climate geodata for Dublin & Cork
+- http://www.wudapt.org
+
 
 ---
 ---
