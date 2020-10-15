@@ -360,6 +360,10 @@ Energy Performance of Buildings Directive
 Publications
 ============
 
+- Ahern, C. and Norton, B., 2020. A generalisable bottom-up methodology for deriving a residential stock model from large empirical databases. Energy and Buildings, 215, p.109886.
+- Ali, U., Shamsi, M.H., Bohacek, M., Purcell, K., Hoare, C., Mangina, E. and O’Donnell, J., 2020. A data-driven approach for multi-scale GIS-based building energy modeling for analysis, planning and support decision making. Applied Energy, 279, p.115834.
+- Nielsen, O.K., Plejdrup, M.S., Bruun, H.G., Gyldenkærne, S. and Christensen, J.H., 2019. MapEIre-National mapping of GHG and non-GHG emissions sources project. <https://projects.au.dk/mapeire/project-description/>.
+
 
 ---
 ---
