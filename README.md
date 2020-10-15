@@ -10,7 +10,7 @@ All data listed here is either:
 - `Available upon purchase`
 - `Available upon subscription`
 
-__Have a new data source to add or found a broken data source URL?__ Great! Please email us at `energy-modelling-ireland-admin@googlegroups.com` with:
+__Have a new data source or publication to add or found a broken data source URL?__ Great! Please email us at `energy-modelling-ireland-admin@googlegroups.com` with:
 
 ```
 Name of source:  Irish Social Science Data Archive (ISSDA)
@@ -21,6 +21,13 @@ URL link to source:  https://www.ucd.ie/issda/data/
 
 The Raw Data file (if there is currently no URL to the data source)
 ```
+
+and/or
+
+```
+Publication in Harvard referencing style
+```
+
 
 > See the [Data Wishlist](#data-wishlist) for a list of data sources that we would love but do not yet have!
 
