@@ -220,6 +220,26 @@ World Urban Database and Access Portal Tools (WUDAPT)
 - Includes climate geodata for Dublin & Cork
 - http://www.wudapt.org
 
+Smart Dublin open data
+----------------------
+- This data catalogue includes:
+  - Energy & Environment
+    - Public lighting infrastructure
+    - Traffic light usage
+    - Energy Consumption (Gas and Electricity) Civic Offices 2009-2012
+    - Gas Consumption
+    - Building Electricity Usage
+  - Transport & Infrastructure
+    - Bikeshare locations: Dublinbikes, Moby Bikes, bleeperbikes
+    - Traffic volumes
+    - Dart Stations
+    - Roads & Streets
+    - 3D Data Model Resources for Dublin Docklands SDZ
+    - Journey Times
+    - Real-time Passenger Information (RTPI) for Dublin Bus, Bus Eireann, Luas and Irish rail
+- https://data.smartdublin.ie/dataset
+
+
 
 ---
 ---
