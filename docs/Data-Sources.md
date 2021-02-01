@@ -39,20 +39,20 @@
 - [Blue Sky 3D Building Models](https://www.bluesky-world.ie/3d-building-models) (`available upon purchase`) - derived photogrammetrically from high resolution stereo aerial photography.
 
 - [Carbon Trust Advanced Metering Trial (2004-2006)](https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/Buildings/AdvancedMeteringTrial_2006) (`available upon request`) 
-  - Half hourly gas and electricity (and water) consumption data (not all utilities were monitored at every site) gathered during the Carbon Trusts Advanced Metering for SMEs project (2004-2006) in United Kingdom Regions of England, Wales and Scotland.  
-  - Meter readings are available for small and medium-sized enterprises (SMEs): Community, social and personal activities, Education, Financial and business services, Government, Health and social work, Manufacturing, Other sectors, Wholesale and retail trade, 
+    - Half hourly gas and electricity (and water) consumption data (not all utilities were monitored at every site) gathered during the Carbon Trusts Advanced Metering for SMEs project (2004-2006) in United Kingdom Regions of England, Wales and Scotland.  
+    - Meter readings are available for small and medium-sized enterprises (SMEs): Community, social and personal activities, Education, Financial and business services, Government, Health and social work, Manufacturing, Other sectors, Wholesale and retail trade, 
 
 - CIBSE Energy Benchmarks (`available upon purchase`) - Commercial sector building fossil fuel and electricity benchmarks by building type .
-  - [TM46: Energy Benchmarks (2008)](https://www.cibse.org/knowledge/guides,-tms,-ams-and-more/technical-memoranda).
-  - [CIBSE Guide F: Energy efficiency (2012) Table 20.1](https://www.cibse.org/knowledge/guides,-tms,-ams-and-more/guides) 
+    - [TM46: Energy Benchmarks (2008)](https://www.cibse.org/knowledge/guides,-tms,-ams-and-more/technical-memoranda).
+    - [CIBSE Guide F: Energy efficiency (2012) Table 20.1](https://www.cibse.org/knowledge/guides,-tms,-ams-and-more/guides) 
 
 - [CSO Small Area Census Statistics (2016)](https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/) - census statistics at areas comprising between 80 and 120 dwellings.
 
 - [CSO Census Statistics Visualisations (2016)](https://www.cso.ie/en/releasesandpublications/ep/p-cp1hii/cp1hii/)
 
 - [CRU Smart Meter Trials demand data](https://www.ucd.ie/issda/data/commissionforenergyregulationcer/) (`available upon request`) - at 15 minute resolution
-  - Electricity demands (2009-2010) for over 5,000 Irish homes and businesses (SMEs).
-  - Gas demands (2010-2011) for nearly 2,000 Irish homes.
+    - Electricity demands (2009-2010) for over 5,000 Irish homes and businesses (SMEs).
+    - Gas demands (2010-2011) for nearly 2,000 Irish homes.
 
 - [Gas Networks Ireland (GNI) Annual Networked Gas Consumption](https://www.cso.ie/en/statistics/climateandenergy/networkedgasconsumption/) - for all Irish Power Plants, Residential & Non-Residential
   - [Dublin Postal District for Residential & Non-Residential Sector 2011-2019 converted to xlsx format](https://zenodo.org/record/4452029#.YAgDZej7SUk)
@@ -67,7 +67,7 @@
 - [NASA Digital Elevation Model](https://data.gov.ie/dataset/digital-elevation-model-of-ireland-from-nasas-shuttle-radar-topography-mission-srtm) - from NASA's Shuttle Radar Topography Mission (SRTM), sampled at 3 arc second intervals in latitude & longitude (about every 90m) in heightmap (.HGT) format.
 
 - [Openstreetmaps overpass-turbo](https://overpass-turbo.eu/) - download **building** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
-  - [building](https://taginfo.openstreetmap.org/keys/power) - "to mark the outline of a building, a man-made structure with a roof, standing more or less permanently in one place."
+    - [building](https://taginfo.openstreetmap.org/keys/power) - "to mark the outline of a building, a man-made structure with a roof, standing more or less permanently in one place."
 
 - [SEAI's BER Public Search dataset](https://ndber.seai.ie/BERResearchTool/Register/Register.aspx) - data (at Postcode level & updated nightly) on all Irish dwellings who have had their BER rating evaluated. .
 
@@ -78,8 +78,8 @@
 - [Sinnott et al's Air Tightness Ireland Field Data houses 1944-2008 (2011)](https://doi.org/10.1016/j.buildenv.2011.11.016) - air permeability test results of 28 houses built between 1944 and 2008 and at varying stages of retrofit.
 
 - [TABULA building typology data](https://webtool.building-typology.eu/#bm) - for each of the European member states participating in the project.
-  - see [TEASER](Tools.md)
-  - see [archetypal](Tools.md)
+    - see [TEASER](Tools.md)
+    - see [archetypal](Tools.md)
 
 - [United Kingdom Time Use Survey, 2014-2015](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8128) - a large-scale household survey that provides data on how people aged 8 years and over in the UK spend their time. 
 
@@ -120,13 +120,13 @@
 - [Eirgrid System Data](http://www.eirgridgroup.com/how-the-grid-works/renewables/) - includes hourly electricity supply/generation of system/wind, capacities, annual fuel mix, connected/contracted generators, wind dispatch down/constraint/curtailment
 
 - [European Network of Transmission System Operators for Electricity ENTSO-E](https://www.entsoe.eu/) - central collection and publication of electricity generation, transportation and consumption data and information for the pan-European market.
-  - See [entsoe-py](Tools.md)
+    - See [entsoe-py](Tools.md)
 
 - [ESB Publications](https://www.esbnetworks.ie/tns/publications)
-  - [38kV & 110kV Station Special Load Readings 2019/2020](https://zenodo.org/record/4446588) - a coincident set of measurements of simultaneous load for all distribution stations (converted from pdf to xlsx format)
+    - [38kV & 110kV Station Special Load Readings 2019/2020](https://zenodo.org/record/4446588) - a coincident set of measurements of simultaneous load for all distribution stations (converted from pdf to xlsx format)
 
 - [Openstreetmaps overpass-turbo](https://overpass-turbo.eu/) - download **electricity** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
-  - [power](https://taginfo.openstreetmap.org/keys/power) - "for marking and tagging facilities for the generation and distribution of electrical power."
+    - [power](https://taginfo.openstreetmap.org/keys/power) - "for marking and tagging facilities for the generation and distribution of electrical power."
 
 
 ### Gas
