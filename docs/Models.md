@@ -1,0 +1,1 @@
+[CRU Single Electricity Market Committee (SEMC) Plexos Forecast Model (2020-2025](https://www.semcommittee.com/news-centre/sem-plexos-forecast-model-2020-2025-and-backcast-report) 
