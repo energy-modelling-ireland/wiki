@@ -59,6 +59,9 @@
 
 - [Mortar](https://mortardata.org/) - a large, diverse and consistently updated testbed of buildings and building data to facilitate reproducible evaluation of building analytics.  At this time, Mortar contains 107 buildings, spanning over 10 billion data points and 26,000 data streams (28/01/2021).
 
+- [overpass-turbo](https://overpass-turbo.eu/) - download **building** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
+  - [building](https://taginfo.openstreetmap.org/keys/power) - "to mark the outline of a building, a man-made structure with a roof, standing more or less permanently in one place."
+
 - [SEAI's BER Public Search dataset](https://ndber.seai.ie/BERResearchTool/Register/Register.aspx) - data (updated nightly) on all Irish dwellings who have had their BER rating evaluated.
 
 - [SEAI Monitoring & Reporting Data (M&R)](https://www.seai.ie/business-and-public-sector/public-sector/monitoring-and-reporting/) - annual energy demands for Public Sector buildings (`available upon request`).
@@ -101,7 +104,7 @@
   - [38kV & 110kV Station Special Load Readings 2019/2020](https://zenodo.org/record/4446588) - a coincident set of measurements of simultaneous load for all distribution stations (converted from pdf to xlsx format)
 
 - [overpass-turbo](https://overpass-turbo.eu/) - download **electricity** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
-  - [power](https://taginfo.openstreetmap.org/keys/power) - for marking and tagging facilities for the generation and distribution of electrical power.
+  - [power](https://taginfo.openstreetmap.org/keys/power) - "for marking and tagging facilities for the generation and distribution of electrical power."
 
 
 ### Gas
