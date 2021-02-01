@@ -53,9 +53,10 @@
 - [CRU Smart Meter Trials demand data](https://www.ucd.ie/issda/data/commissionforenergyregulationcer/) (`available upon request`) - at 15 minute resolution
     - Electricity demands (2009-2010) for over 5,000 Irish homes and businesses (SMEs).
     - Gas demands (2010-2011) for nearly 2,000 Irish homes.
+    - see tool: [cer-smart-meter-trials-2009-2011](Tools.md)
 
 - [Gas Networks Ireland (GNI) Annual Networked Gas Consumption](https://www.cso.ie/en/statistics/climateandenergy/networkedgasconsumption/) - for all Irish Power Plants, Residential & Non-Residential
-  - [Dublin Postal District for Residential & Non-Residential Sector 2011-2019 converted to xlsx format](https://zenodo.org/record/4452029#.YAgDZej7SUk)
+    - [Dublin Postal District for Residential & Non-Residential Sector 2011-2019 converted to `.xlsx` format](https://zenodo.org/record/4452029#.YAgDZej7SUk)
 
 
 - [GeoHive](http://map.geohive.ie/mapviewer.html) - an initiative by Ordnance Survey Ireland (OSI) to provide easy access to publically available spatial data.
@@ -64,12 +65,14 @@
 
 - [Mortar](https://mortardata.org/) - a large, diverse and consistently updated testbed of buildings and building data to facilitate reproducible evaluation of building analytics.  At this time, Mortar contains 107 buildings, spanning over 10 billion data points and 26,000 data streams (28/01/2021).
 
-- [NASA Digital Elevation Model](https://data.gov.ie/dataset/digital-elevation-model-of-ireland-from-nasas-shuttle-radar-topography-mission-srtm) - from NASA's Shuttle Radar Topography Mission (SRTM), sampled at 3 arc second intervals in latitude & longitude (about every 90m) in heightmap (.HGT) format.
+- [NASA Digital Elevation Model](https://data.gov.ie/dataset/digital-elevation-model-of-ireland-from-nasas-shuttle-radar-topography-mission-srtm) - from NASA's Shuttle Radar Topography Mission (SRTM), sampled at 3 arc second intervals in latitude & longitude (about every 90m) in heightmap (`.HGT`) format.
 
 - [Openstreetmaps overpass-turbo](https://overpass-turbo.eu/) - download **building** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
     - [building](https://taginfo.openstreetmap.org/keys/power) - "to mark the outline of a building, a man-made structure with a roof, standing more or less permanently in one place."
+    - see tool: [osmnx](Tools.md)
 
 - [SEAI's BER Public Search dataset](https://ndber.seai.ie/BERResearchTool/Register/Register.aspx) - data (at Postcode level & updated nightly) on all Irish dwellings who have had their BER rating evaluated. .
+    - see tool: [berpublicsearch](Tools.md)
 
 - [SEAI's BER Map](https://www.seai.ie/technologies/seai-maps/ber-map/) - building data (at Small Area level) on dwelling clusters within Ireland. 
 
@@ -78,8 +81,8 @@
 - [Sinnott et al's Air Tightness Ireland Field Data houses 1944-2008 (2011)](https://doi.org/10.1016/j.buildenv.2011.11.016) - air permeability test results of 28 houses built between 1944 and 2008 and at varying stages of retrofit.
 
 - [TABULA building typology data](https://webtool.building-typology.eu/#bm) - for each of the European member states participating in the project.
-    - see [TEASER](Tools.md)
-    - see [archetypal](Tools.md)
+    - see tool: [TEASER](Tools.md)
+    - see tool: [archetypal](Tools.md)
 
 - [United Kingdom Time Use Survey, 2014-2015](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8128) - a large-scale household survey that provides data on how people aged 8 years and over in the UK spend their time. 
 
@@ -127,7 +130,7 @@
 
 - [Openstreetmaps overpass-turbo](https://overpass-turbo.eu/) - download **electricity** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
     - [power](https://taginfo.openstreetmap.org/keys/power) - "for marking and tagging facilities for the generation and distribution of electrical power."
-
+    - see tool: [osmnx](Tools.md)
 
 ### Gas
 
