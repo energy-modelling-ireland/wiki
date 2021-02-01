@@ -13,4 +13,5 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material
-      - run: cd energy-modelling-ireland.github.io && mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch master
+      - run: mkdocs gh-deploy --config-file ../mkdocs.yml --remote-branch master
+        working-directory: energy-modelling-ireland.github.io
