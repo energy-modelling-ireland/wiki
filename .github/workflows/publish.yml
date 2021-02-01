@@ -14,10 +14,12 @@ jobs:
           python-version: 3.x
       - run: pip install mkdocs-material
       - name: Deploy to www.energy-modelling-ireland.github.io
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git remote rm origin
-          git remote add origin "https://github.com/energy-modelling-ireland/energy-modelling-ireland.github.io"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/energy-modelling-ireland.github.io.git"
           mkdocs gh-deploy --force
-
+        
