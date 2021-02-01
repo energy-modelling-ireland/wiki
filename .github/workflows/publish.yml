@@ -20,6 +20,6 @@ jobs:
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git remote rm origin
-          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/energy-modelling-ireland.github.io.git"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/energy-modelling-ireland/energy-modelling-ireland.github.io.git"
           mkdocs gh-deploy --force
         
