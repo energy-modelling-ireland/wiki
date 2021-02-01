@@ -1,7 +1,7 @@
 # Data Wishlist
 
 - Metered Electricity Consumption Data at as fine a spatial and temporal granularity as possible!
-- Network Gas Consumption data at a Small Area level (see [Energy Consumption](#energy-consumption) for a Postcode-level demand data source)
+- Network Gas Consumption data at a Small Area level for a Postcode-level demand data source
 - Pre and Post Retrofit Costs & Fabric Data
 
 To investigate the costs and benefits of residential deep renovation in Ireland.
