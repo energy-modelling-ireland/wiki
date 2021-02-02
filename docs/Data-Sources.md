@@ -128,6 +128,9 @@
 - [ESB Publications](https://www.esbnetworks.ie/tns/publications)
     - [38kV & 110kV Station Special Load Readings 2019/2020](https://zenodo.org/record/4446588) - a coincident set of measurements of simultaneous load for all distribution stations (converted from pdf to xlsx format)
 
+- [ESB Station Demand Availability Map](https://www.esbnetworks.ie/demand-availability-capacity-map) - gives an indication of the available transformer capacity at primary substations (MV & 38kV).
+    - [MapDetailsDemand.xlsx](https://zenodo.org/record/4495334) - stations linked to locations & capacity availablity extracted from capacity map.  Can be used to locate stations in the *38kV & 110kV Station Special Load Readings* document.
+
 - [Openstreetmaps overpass-turbo](https://overpass-turbo.eu/) - download **electricity** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
     - [power](https://taginfo.openstreetmap.org/keys/power) - "for marking and tagging facilities for the generation and distribution of electrical power."
     - see tool: [osmnx](Tools.md)
