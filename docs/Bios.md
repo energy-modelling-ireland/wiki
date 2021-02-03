@@ -181,7 +181,7 @@
   <tr>
     <td>
       <a href = "mailto: jason.mcguire@ucc.ie">
-        <img src="https://img.shields.io/badge/f.rogan@ucc.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+        <img src="https://img.shields.io/badge/jason.mcguire@ucc.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
       </a>
       <a href="https://www.linkedin.com/in/jason-mc-guire-b45b6966/">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
