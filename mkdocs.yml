@@ -1,2 +1,11 @@
 site_name: Ireland Energy Wiki by the National Retrofitting Modelling Group
-theme: material
+site_description: 'Actively maintained listings of Irish energy-related resources'
+repo_name: 'energy-modelling-ireland/ireland-energy-wiki'
+repo_url: 'https://github.com/energy-modelling-ireland/ireland-energy-wiki'
+theme:
+  name: material
+  logo: 'logo.png'
+  favicon: 'favicon.png'
+  palette:
+    primary: 'teal'
+    accent: 'light'
