@@ -92,6 +92,7 @@
 
 - [Wei Pan's Air Tightness UK Field Data houses post-2006 (2010)](https://doi.org/10.1016/j.buildenv.2010.04.011) - air permeability test results of 287 post-2006 new-build dwellings in the UK.
 
+
 ---
 
 
@@ -100,6 +101,18 @@
 - [Environmental Protection Agency (EPA) Licensing and Permitting](http://epa.ie/licensing/) - industrial Emissions
 
 - [SEAI Conversion Factors](https://www.seai.ie/data-and-insights/seai-statistics/conversion-factors/) - Calorific values, Emission factors, Fuel densities, Primary energy conversion factors
+
+
+---
+
+
+## Boundary Files
+
+- CSO Census ([2016](https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/), [2011](https://www.cso.ie/en/census/census2011boundaryfiles/)) - Provinces, NUTS, Administrative counties, Electoral Divisions, Small Areas, Gaeltacht Areas, Legal Towns and Cities, Settlements (Census towns, legal towns and environs, cities and suburbs), Garda boundaries, Baronies, Constituencies, Limistéir Pleanála Teanga
+
+- Dublin Postcodes ([with](https://zenodo.org/record/4284592)/[without](https://zenodo.org/record/4327005) "Co. Dublin") by [Shane McGuinness](https://www.linkedin.com/in/shane-mc-guinness-ph-d-7290a817/) - created in collaboration with Yelp
+
+- [Ireland](https://zenodo.org/record/4288461), [Dublin](https://zenodo.org/record/4432494) - contains only the exterior boundary.  Useful for extracting data within specified boundary.
 
 
 ---
