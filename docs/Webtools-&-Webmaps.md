@@ -10,9 +10,7 @@
 
 ## ESB
 
-- [Availability Capacity Map](https://www.esbnetworks.ie/new-connections/generator-connections/network-capacity-map) - provides an indication of the available transformer capacity at substations.  Includes capacity information on all our 3-phase LV, MV and HV DSO substations.
-
-- [Demand Availability Capacity Map](https://www.esbnetworks.ie/demand-availability-capacity-map) - provides an indication of the available transformer capacity at substations .
+- [Availability Capacity Map](https://www.esbnetworks.ie/network-capacity-map) - provides an indication of the available transformer capacity at substations.  Includes capacity information on all our 3-phase LV, MV and HV DSO substations.
 
 - [Electric Vehicle Charge Point Map](https://esb.ie/ecars/charge-point-map)
 
