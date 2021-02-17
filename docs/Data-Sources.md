@@ -30,6 +30,8 @@
 
 ### Transport
 
+- [National Transport Authority data](https://www.nationaltransport.ie/planning-and-investment/transport-modelling/data/) (`available upon request`)
+
 ### Industry
 
 - [Environmental Protection Agency (EPA) Annual Industrial Energy Use](https://zenodo.org/record/4048377) - Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings.  
@@ -56,8 +58,8 @@
     - see tool: [cer-smart-meter-trials-2009-2011](Tools.md)
 
 - [Gas Networks Ireland (GNI) Annual Networked Gas Consumption](https://www.cso.ie/en/statistics/climateandenergy/networkedgasconsumption/) - for all Irish Power Plants, Residential & Non-Residential
-    - [Dublin Postal District for Residential & Non-Residential Sector 2011-2019 converted to `.xlsx` format](https://zenodo.org/record/4452029#.YAgDZej7SUk)
-
+    - [Total/Median Annual Gas Consumption and Total Meters by Dublin Postcode for Residential & Non-Residential Sector 2011-2019 converted to `GeoJSON` format](https://zenodo.org/record/4452029#.YAgDZej7SUk)
+    - [Converting CSO Network Gas consumption from HTML to GeoJSON](https://github.com/codema-dev/cso-network-gas)
 
 - [GeoHive](http://map.geohive.ie/mapviewer.html) - an initiative by Ordnance Survey Ireland (OSI) to provide easy access to publically available spatial data.
 
@@ -139,6 +141,11 @@
     - See [entsoe-py](Tools.md)
 
 - [ESB Availability Capacity Map: Demand & Generation](https://www.esbnetworks.ie/network-capacity-map) - contains capacity information on all our 3-phase LV, MV and HV DSO substations. It provides an interface that enables the easy identification of potential transformer capacity in the vicinity of your site. *An excel file is available to download from the download section on this page.*
+
+- [ESB CAD Network Data](https://www.esbnetworks.ie/tns/contact-us/freedom-of-information) (`available upon request`) - HV, MV & LV network data for distinct and separate geographic areas
+which, in combination, contain the locational information for all of ESB Networks
+High Voltage (38kV, 110kV, 220kV, 400kV), Medium Voltage (20kV, 10kV) and Low Voltage (LV) electrical
+infrastructure. 
 
 - [ESB Publications](https://www.esbnetworks.ie/tns/publications)
     - [38kV & 110kV Station Special Load Readings 2019/2020](https://zenodo.org/record/4446588) (converted to xlsx) - a coincident set of measurements of simultaneous load for all distribution stations. *Availability Capacity Map provides station locations, demand & capacities.* 
