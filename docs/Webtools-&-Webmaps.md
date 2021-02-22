@@ -20,6 +20,8 @@
 
 - [Electric Vehicle Charge Point Map](https://esb.ie/ecars/charge-point-map)
 
+- Electrictymap by Tomorrow ([map](https://www.electricitymap.org/map), [Github](https://github.com/tmrowco/electricitymap-contrib)) - a real-time visualisation of the CO2 emissions of electricity consumption EU-wide.
+
 - [Generation Asset Map](https://esb.ie/our-businesses/generation-energy-trading-new/generation-asset-map)
 
 ## Other
