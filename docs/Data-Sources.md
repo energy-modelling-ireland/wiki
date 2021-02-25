@@ -111,6 +111,7 @@
 ## Boundary Files
 
 - CSO Census ([2016](https://www.cso.ie/en/census/census2016reports/census2016smallareapopulationstatistics/), [2011](https://www.cso.ie/en/census/census2011boundaryfiles/)) - Provinces, NUTS, Administrative counties, Electoral Divisions, Small Areas, Gaeltacht Areas, Legal Towns and Cities, Settlements (Census towns, legal towns and environs, cities and suburbs), Garda boundaries, Baronies, Constituencies, Limistéir Pleanála Teanga
+    - Dublin Small Areas Boundaries linked to Postcodes, Electoral Divisions & Local Authorities for [2011](https://zenodo.org/record/4562481) & [2016](https://zenodo.org/record/4562475)
 
 - Dublin Postcodes ([with](https://zenodo.org/record/4284592)/[without](https://zenodo.org/record/4327005) "Co. Dublin") by [Shane McGuinness](https://www.linkedin.com/in/shane-mc-guinness-ph-d-7290a817/) - created in collaboration with Yelp
 
