@@ -8,6 +8,8 @@
 
 - [data.gov.ie](https://data.gov.ie/) - Irish Public Sector data in open, free and reusable formats.
 
+- [GeoHive](http://map.geohive.ie/mapviewer.html) - an initiative by Ordnance Survey Ireland (OSI) to provide easy access to publically available spatial data.
+
 - [gov.ie](https://www.gov.ie/en/publications/) - publications from government departments and agencies, including news, press releases, reports, and Freedom of Information responses. Includes: Energy Performance of Buildings Directive 2010/31/EU (EPBD), latest standards energy efficiency standards for new dwellings, Cost Optimal Residential Report Ireland 2018
 
 - [Irish Social Science Data Archive (ISSDA)](https://www.ucd.ie/issda/data/) - "Ireland’s leading centre for quantitative data acquisition, preservation, and dissemination. Based at UCD Library, its mission is to ensure wide access to quantitative datasets in the social sciences, and to advance the promotion of international comparative studies of the Irish economy and Irish society."
@@ -61,13 +63,17 @@
     - [Total/Median Annual Gas Consumption and Total Meters by Dublin Postcode for Residential & Non-Residential Sector 2011-2019 converted to `GeoJSON` format](https://zenodo.org/record/4452029#.YAgDZej7SUk)
     - [Converting CSO Network Gas consumption from HTML to GeoJSON](https://github.com/codema-dev/cso-network-gas)
 
-- [GeoHive](http://map.geohive.ie/mapviewer.html) - an initiative by Ordnance Survey Ireland (OSI) to provide easy access to publically available spatial data.
+- [GeoHive Dublin Housing Observatory](https://airomaps.geohive.ie/dho/) - a mapping viewer based on a wide variety of publicly accessible housing related public datasets for the Dublin region including; Contextual Layers (Boundaries and Local Services), Zoning and Planning (Development Plans, Residential Zoning etc), Rental Market, Sales and Market Valuations (RTB Rent Index, Property Price Register, LPT etc) and Census 2016 Census Variables (Tenure, Type, Housing Composition, Population and Population Density etc)
 
 - [Geodirectory](https://www.geodirectory.ie/) (`available upon subscription`) - GeoAddress & GeoData databases backed by An Post and Ordnance Survey Ireland.
 
 - [Mortar](https://mortardata.org/) - a large, diverse and consistently updated testbed of buildings and building data to facilitate reproducible evaluation of building analytics.  At this time, Mortar contains 107 buildings, spanning over 10 billion data points and 26,000 data streams (28/01/2021).
 
+- [Myplan Zoning Map](https://viewer.myplan.ie/) - Generalised Zoning Types (GZT) layer which represents zoning data from Development Plans and Local Area Plans in a consistent scheme for all local authorities.
+
 - [NASA Digital Elevation Model](https://data.gov.ie/dataset/digital-elevation-model-of-ireland-from-nasas-shuttle-radar-topography-mission-srtm) - from NASA's Shuttle Radar Topography Mission (SRTM), sampled at 3 arc second intervals in latitude & longitude (about every 90m) in heightmap (`.HGT`) format.
+
+- [National Monument's Service Heritage Buildings](https://maps.archaeology.ie/HistoricEnvironment/) - Locations of Heritage Buildings & Monuments
 
 - [Openstreetmaps overpass-turbo](https://overpass-turbo.eu/) - download **building** data from [Openstreetmaps](https://www.openstreetmap.org) by selecting [Wizard](https://wiki.openstreetmap.org/wiki/Overpass_turbo/Wizard) and entering one of the following [tags](https://taginfo.openstreetmap.org/):
     - [building](https://taginfo.openstreetmap.org/keys/power) - "to mark the outline of a building, a man-made structure with a roof, standing more or less permanently in one place."
@@ -126,6 +132,7 @@
 - [SEAI Publications](https://www.seai.ie/data-and-insights/seai-statistics/key-publications/)
 
 - [Openstreetmaps geofabrik](http://download.geofabrik.de/europe/ireland-and-northern-ireland.html) - extracts from the [OpenStreetMap project](https://www.openstreetmap.org/#map=6/53.465/-8.240) for Ireland and Northern Ireland
+
 
 ---
 
