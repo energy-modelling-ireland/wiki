@@ -18,6 +18,8 @@
 
 - [Smart Dublin open data](https://data.smartdublin.ie/dataset) - includes: Public lighting infrastructure, Traffic light usage, Energy Consumption (Gas and Electricity) Civic Offices 2009-2012, Gas Consumption, Building Electricity Usage, Transport & Infrastructure, Bikeshare locations, Traffic volumes, Dart Stations, Roads & Streets, 3D Data Model Resources for Dublin Docklands SDZ, Journey Times, Real-time Passenger Information (RTPI) for Dublin Bus, Bus Eireann, Luas and Irish rail 
 
+- [Spatio Temporal Asset Catalogue](https://stacindex.org/catalogs#/) - The SpatioTemporal Asset Catalog (STAC) [specification](https://stacspec.org/) provides a common language to describe a range of geospatial information, so it can more easily be indexed and discovered. A 'spatiotemporal asset' is any file that represents information about the earth captured in a certain space and time.  Several STAC Catalogs are live, including: Landsat (catalog), CBERS (catalog), Sentinel 2 (catalog), Google Earth Engine (Collections Only)
+
 - [UCD Spatial Data & Other Datasets](https://libguides.ucd.ie/gisguide/FindSpatialData) - includes: Administrative Boundaries, Agriculture, Air Quality, Archaeology & Built Heritage, Conservation Areas, Economics, Elevation Data, Extractive Industries, Flooding, Forestry & Woodland, Geology, Habitats, Housing, Hydrology, Ireland_Shapefiles, Labour Market, Land Cover, Land Use, Marine Data, Mining, Natural Heritage, Satellite Imagery, Population, Social Data, Soil, Topography, Transportation & Travel, Utilities, Waste, Water Quality, Weather & Climatology, Wind Energy
 
 - [UK Energy Research Centre (UKERC) Data Catalogue](https://ukerc.ac.uk/publications/) - a compilation of energy related publications for the United Kingdom.
