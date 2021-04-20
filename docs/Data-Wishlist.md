@@ -117,6 +117,7 @@
         <tr>
             <td>
                 MPRN/BER number matched to CSO data <em>... so that there is a consistency and comparability in the data collected by SEAI and CSO regarding building typologies.</em>
+            </td>
             <td>?/?</td>
             <td>?</td>
             <td>04/02/2021</td>
@@ -124,6 +125,7 @@
         <tr>
             <td>
                 Actual geometry and orientation data on each BER record (or a representative sample) <em>... to enable dynamic simulation and validation of individual dwellings energy consumption.</em>
+            </td>
             <td>?/?</td>
             <td>?</td>
             <td>04/02/2021</td>
@@ -166,6 +168,7 @@
         <tr>
             <td>
                 Residential & non-residential metered electricity consumption data at Small Area level <em>... so that town/city/country scale model estimates can be validated against actual usage data.</em>
+            </td>
             <td>?/?</td>
             <td>?</td>
             <td>04/02/2021</td>
@@ -173,6 +176,7 @@
         <tr>
             <td>
                 Residential & non-residential metered gas consumption data at Small Area level <em>... so that town/city/country scale model estimates can be validated against actual usage data.</em>
+            </td>
             <td>?/?</td>
             <td>?</td>
             <td>04/02/2021</td>
@@ -185,11 +189,16 @@
             <td>04/02/2021</td>
         </tr>
         <tr>
-            <td>
-                Indoor air quality (IAQ) data for residential buildings in Ireland.
+            <td>Indoor air quality (IAQ) data for residential buildings in Ireland.</td>
             <td>?/?</td>
             <td>?</td>
             <td>04/02/2021</td>
+        </tr>
+        <tr>
+            <td>Detailed Energy Demands linked to Appliance usage.</td>
+            <td>?/?</td>
+            <td>?</td>
+            <td>20/04/2021</td>
         </tr>
     </tbody>
 </table>
