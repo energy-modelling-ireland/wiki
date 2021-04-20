@@ -8,6 +8,8 @@
 
 - [data.gov.ie](https://data.gov.ie/) - Irish Public Sector data in open, free and reusable formats.
 
+- [EU Comission Copernicus](https://www.copernicus.eu/en/access-data) - global data from satellites and ground-based, airborne, and seaborne measurement systems.  Copernicus is served by a set of dedicated satellites (the Sentinel families) and contributing missions (existing commercial and public satellites). 
+
 - [GeoHive](http://map.geohive.ie/mapviewer.html) - an initiative by Ordnance Survey Ireland (OSI) to provide easy access to publically available spatial data.
 
 - [gov.ie](https://www.gov.ie/en/publications/) - publications from government departments and agencies, including news, press releases, reports, and Freedom of Information responses. Includes: Energy Performance of Buildings Directive 2010/31/EU (EPBD), latest standards energy efficiency standards for new dwellings, Cost Optimal Residential Report Ireland 2018
