@@ -24,6 +24,8 @@
 
 - [UK Energy Research Centre (UKERC) Data Catalogue](https://ukerc.ac.uk/publications/) - a compilation of energy related publications for the United Kingdom.
 
+- [World Bank Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/ireland) - an online platform for access to comprehensive global, regional, and country data related to climate change and development.
+
 - [World Urban Database and Access Portal Tools (WUDAPT)](http://www.wudapt.org) - includes: climate geodata for Dublin & Cork
 
 
