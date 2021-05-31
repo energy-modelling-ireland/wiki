@@ -18,6 +18,8 @@
 
 - [Ordinance Survey Ireland (OSI)](https://data-osi.opendata.arcgis.com/) - includes: boundaries, nature & environment, placenames, built environment, transportation & travel, water & hydrography, adminstrative,
 
+- [Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog) - includes petabytes of environmental monitoring data, in consistent, analysis-ready formats. All of the datasets below can be accessed via Azure Blob Storage, and can be used by developers whether you're working within or outside of our Planetary Computer Hub.  Includes Landsat, Sentinal-2, ASTER, NAIP, GBIF, Global Hydro Estimator, Harbonized Global Biomass, TerraClimate...
+
 - [Smart Dublin open data](https://data.smartdublin.ie/dataset) - includes: Public lighting infrastructure, Traffic light usage, Energy Consumption (Gas and Electricity) Civic Offices 2009-2012, Gas Consumption, Building Electricity Usage, Transport & Infrastructure, Bikeshare locations, Traffic volumes, Dart Stations, Roads & Streets, 3D Data Model Resources for Dublin Docklands SDZ, Journey Times, Real-time Passenger Information (RTPI) for Dublin Bus, Bus Eireann, Luas and Irish rail 
 
 - [Spatio Temporal Asset Catalogue](https://stacindex.org/catalogs#/) - The SpatioTemporal Asset Catalog (STAC) [specification](https://stacspec.org/) provides a common language to describe a range of geospatial information, so it can more easily be indexed and discovered. A 'spatiotemporal asset' is any file that represents information about the earth captured in a certain space and time.  Several STAC Catalogs are live, including: Landsat (catalog), CBERS (catalog), Sentinel 2 (catalog), Google Earth Engine (Collections Only)
@@ -29,7 +31,6 @@
 - [World Bank Climate Change Knowledge Portal](https://climateknowledgeportal.worldbank.org/country/ireland) - an online platform for access to comprehensive global, regional, and country data related to climate change and development.
 
 - [World Urban Database and Access Portal Tools (WUDAPT)](http://www.wudapt.org) - includes: climate geodata for Dublin & Cork
-
 
 ---
 
