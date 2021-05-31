@@ -44,6 +44,14 @@
 
 - [National Transport Authority data](https://www.nationaltransport.ie/planning-and-investment/transport-modelling/data/) (`available upon request`)
 
+- [ESB EV Charge Point Locations](https://esb.ie/ecars/charge-point-map)
+
+- [OpenChargeMap](https://map.openchargemap.io) - a crowdsourced global public registry of Electric Vehicle charging locations
+
+- [PlugShare](https://www.plugshare.com/) - a community based tool that guides users to public charging locations throughout the world
+
+- [Smart Dublin Transport & Infrastructure](https://data.smartdublin.ie/dataset?category=Transport%20and%20Infrastructure)
+
 ### Industry
 
 - [Environmental Protection Agency (EPA) Annual Industrial Energy Use](https://zenodo.org/record/4048377) - Annual Gas & Electricity data for Emissions Trading System (ETS) industrial buildings.  
