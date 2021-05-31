@@ -36,6 +36,10 @@
 
 ## Demand
 
+## Synthetic
+
+- [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) - generates input data for energy models on renewable energy in arbitrary world regions using public datasets. 
+
 ### Transport
 
 - [National Transport Authority data](https://www.nationaltransport.ie/planning-and-investment/transport-modelling/data/) (`available upon request`)
