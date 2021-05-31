@@ -36,7 +36,7 @@
 
 ## Demand
 
-## Synthetic
+### Synthetic
 
 - [GlobalEnergyGIS](https://github.com/niclasmattsson/GlobalEnergyGIS) - generates input data for energy models on renewable energy in arbitrary world regions using public datasets. 
 
