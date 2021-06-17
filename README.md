@@ -1,6 +1,5 @@
-Ireland Energy Data Sources
-===========================
+# Ireland Energy Wiki Website
 
-This repository supports the `energy-data-sources` Wiki which contains links to a collection of energy-related data sources for Ireland.  
+[![Join the chat at https://gitter.im/energy-modelling-ireland/webmaps](https://badges.gitter.im/energy-modelling-ireland/webmaps.svg)](https://gitter.im/energy-modelling-ireland/webmaps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[Click here to see the Wiki!](https://github.com/energy-modelling-ireland/energy-data-sources/wiki)
+This repository contains the source files for the [`ireland-energy-wiki`](https://energy-modelling-ireland.github.io/) website which hosts an actively maintained collection of Irish energy research resources.  
