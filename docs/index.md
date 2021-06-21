@@ -34,6 +34,10 @@ Special thanks to researchers at:
   <img src="img/logos/nuigalway.png" width="150">
 </a>
 &emsp;
+<a href="http://www.seai.ie/">
+  <img src="img/logos/seai.png" width="150">
+</a>
+&emsp;
 <a href="https://www.tudublin.ie/">
   <img src="img/logos/tudublin.png" width="100">
 </a>
