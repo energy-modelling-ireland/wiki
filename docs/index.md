@@ -1,4 +1,11 @@
-This website contains actively maintained listings of Irish energy-related resources including: [Data Sources](Data-Sources.md), [Irish Models](Irish-Models.md), [Publications](Publications.md), [Tools](Tools.md) & [Webtools & Webmaps](Webtools-&-Webmaps.md)
+This website contains actively maintained listings of:
+
+- [Irish Data Sources & collections](Data-Sources.md)
+- [Irish Models](Irish-Models.md)
+- [Irish Publications](Publications.md)
+- [Tools](Tools.md)
+- [Getting Started](Getting-Started.md) - learning resources for various tools
+- [Webtools & Webmaps](Webtools-&-Webmaps.md)
 
 > For a list of data sources that we would love but do not yet have see the [Data Wishlist](Data-Wishlist.md) 
 
