@@ -1,5 +1,9 @@
-## [Git & Github](https://git-scm.com/doc)
+## [Github](https://github.com/)
+- [quickstart](https://docs.github.com/en/get-started/quickstart) (`official`)
 - [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [markdown](https://guides.github.com/features/mastering-markdown/) (official `Github` 3-minute guide) - lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
+
+## [Git](https://git-scm.com/doc)
 - [git external-links](https://git-scm.com/doc/ext) - a curated, ever-evolving collection of tutorials, books, videos, and other Git resources. 
 - [learngitbranching](https://learngitbranching.js.org/) - "the most visual and interactive way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way"
+- [git-parable](https://practical-neuroimaging.github.io/git_parable.html) - "Git is a simple, but extremely powerful system. Most people try to teach Git by demonstrating a few dozen commands and then yelling “tadaaaaa.” I believe this method is flawed. Such a treatment may leave you with the ability to use Git to perform simple tasks, but the Git commands will still feel like magical incantations. Doing anything out of the ordinary will be terrifying. Until you understand the concepts upon which Git is built, you’ll feel like a stranger in a foreign land.  The following parable will take you on a journey through the creation of a Git-like system from the ground up. Read this parable all the way through and you should have very little trouble mastering the various Git commands and wielding the awesome power that Git makes available to you."
