@@ -2,7 +2,7 @@
 
 Have a resource to add to this collection? Found a broken link? **Comfortable with Github?** 
 
-## Via Email
+## Contribute via Email
 
 Email us at `energy-modelling-ireland-admin@googlegroups.com` with:
 
@@ -20,10 +20,8 @@ URL link to resource:
 Reference (in Harvard citation format)
 ```
 
-## Via Github
+## Contribute via Github
 
-> **New to Github?** See [first contributions](https://firstcontributions.github.io/)!
-
-> **New to Markdown?** See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)!
+> **New to Github?** See [Getting Started](Getting-Started.md)!
 
 Edit the Markdown file (.md) in the `docs` folder corresponding to the page you want to change (such as `Data-Sources.md`) [on the Github](https://github.com/energy-modelling-ireland/ireland-energy-wiki) with your desired changes and submit your changes via a `Pull Request`.
