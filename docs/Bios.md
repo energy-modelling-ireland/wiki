@@ -16,7 +16,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/oisin-doherty.png" width="150">  
+        <img class="bios" src=  "img/bios/oisin-doherty.png" width="150">  
       </div> 
       Oisín is an Junior Energy Systems Analyst at <a href="https://www.codema.ie">Codema - Dublin's Energy Agency</a>. He is a UCD graduate working on the Dublin Region Energy Masterplan, primarily through the form of open-sourced Python scripting for which more info can be found on our <a href="https://github.com/codema-dev">codema-dev</a> Github.
     </td>
@@ -40,7 +40,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/rowan-molony.png" width="150">  
+        <img class="bios" src=  "img/bios/rowan-molony.png" width="150">  
       </div> 
       Rowan Molony is an Energy System Modeller at <a href="https://www.codema.ie">Codema - Dublin's Energy Agency</a> where he is working on the open-source SEAI RD&D funded <a href="https://www.codema.ie/projects/local-projects/dublin-region-energy-master-plan/">Dublin Region Energy Masterplan Project</a>.  See the <a href="https://github.com/codema-dev">codema-dev</a> Github account to access all of the software being developed as part of this project.
     </td>
@@ -74,7 +74,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/paul-moran.png" width="150">  
+        <img class="bios" src=  "img/bios/paul-moran.png" width="150">  
       </div> 
       Paul is a Postdoctoral Researcher with his research work focusing on sustainable construction technologies for building and retrofitting residential buildings, developing one-stop-shop retrofit services and the examining the interrelationships between building occupants, building systems, and building energy consumption.
       <br><br>
@@ -109,7 +109,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/ciara-ahern.png" width="150">  
+        <img class="bios" src=  "img/bios/ciara-ahern.png" width="150">  
       </div> 
       A chartered building services engineer currently serving as Head of Building Engineering within the College of Engineering and Built Environment in Technological University Dublin.  Dr. Ahern is a funded investigator with SFI/MaREI with active research activity in the area of energy resilience within the built environment.  Alongside an academic career, Dr. Ahern has 12 years industrial experience practicing as a consultant design engineer on residential and commercial building projects.  
       <br><br>
@@ -146,7 +146,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/fionn-rogan.png" width="150">  
+        <img class="bios" src=  "img/bios/fionn-rogan.png" width="150">  
       </div> 
       Fionn Rogan is a Senior Research Fellow at UCC. Fionn's research interests and current activities include modelling energy policies, simulation modelling, energy innovation, diffusion of innovations, sustainable energy workshops.
     </td>
@@ -173,7 +173,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/jason-mc-guire.png" width="150">  
+        <img class="bios" src=  "img/bios/jason-mc-guire.png" width="150">  
       </div> 
       Jason Mc Guire is working on building the residential sector in the TIMES energy system optimization model, to provide discussion and inputs for Climate Action Plan 2021. He's also planning to explore Ireland's carbon budgets pathways.
     </td>
@@ -197,7 +197,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/tomas-mac-uidhir.png" width="150">  
+        <img class="bios" src=  "img/bios/tomas-mac-uidhir.png" width="150">  
       </div> 
       Tomás Mac Uidhir is a postdoctoral researcher in MaREI and is located in the Environmental Research Institute in UCC. Tomás is an expert developer of the Low Emissions Analysis Platform (LEAP) energy system model for Ireland. He is interested in developing simulation models which provide insights into policy implementation pathways.
     </td>
@@ -235,7 +235,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/divyanshu-sood.png" width="150">  
+        <img class="bios" src=  "img/bios/divyanshu-sood.png" width="150">  
       </div> 
       Divyanshu's research is in the area of development of Next Generation Building Archetypes and associated with the project titled "ALIVE - Assessing Indoor Environmental Quality and Energy Efficiency In a range of Naturally-Ventilated Buildings." The research focuses on the effect of natural ventilation on the energy performance of the building and indoor environmental quality in the context of Irish buildings. Also, he is a member of (International Building Performance Simulation Association) IBPSA Project-1 wherein he is working on a taxonomy based review paper on City Quarter Information Modelling for Building Energy. 
     </td>
