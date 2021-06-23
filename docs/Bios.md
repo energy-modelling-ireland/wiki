@@ -251,3 +251,33 @@
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+      <div class="square"> 
+        <img class="bios" src=  "../img/bios/james-odonnell.png" width="150">  
+      </div> 
+      James O'Donnell joined University College Dublin (UCD) in June 2013. Prior to this appointment, he worked as a senior Scientific Engineering Associate in the Building Technology and Urban Systems Department of the Lawrence Berkeley National Laboratory (LBNL). His current work focuses on the development and deployment of interoperable and BIM based solutions to support multi-scale energy modelling, from individual buildings to national building stocks. It is in this capacity that he contributes to buildingSMART’s Building Energy Modelling IDM Expert Panel. In addition to technical research and consulting, James teaches modules focusing on building physics and building energy modelling. Previously, he taught courses at Stanford University, National University of Ireland Galway, and University College Cork on building performance analysis, building physics and HVAC analysis respectively. He also worked as a Postdoctoral Scholar at the National University of Ireland Galway (NUIG). James has a degree in Civil and Environmental Engineering and a Ph.D. in holistic building performance analysis from University College Cork (UCC). He is also an editorial board member for the Elsevier journal Advanced Engineering Informatics.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href = "https://people.ucd.ie/james.odonnell">
+        <img src="https://img.shields.io/badge/UCD WebPage%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href = "mailto: james.odonnell@ucd.ie">
+        <img src="https://img.shields.io/badge/james.odonnell@ucd.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href="https://ie.linkedin.com/in/james-o-donnell-3509905">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://www.researchgate.net/profile/James-O-Donnell">
+        <img src="https://img.shields.io/badge/Research_Gate%20-%230077B5.svg?&style=for-the-badge&logo=researchgate"/>
+      </a>
+      <a href="https://scholar.google.com/citations?user=I55JpykAAAAJ&hl">
+        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
