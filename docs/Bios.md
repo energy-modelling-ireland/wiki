@@ -10,31 +10,33 @@
     float: left;
   }
 </style> 
-## Codema - Dublin's Energy Agency
+
+## Administrators
 
 <table>
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "img/bios/oisin-doherty.png" width="150">  
+        <img class="bios" src=  "img/bios/jason-mc-guire.png" width="150">  
       </div> 
-      Oisín is an Junior Energy Systems Analyst at <a href="https://www.codema.ie">Codema - Dublin's Energy Agency</a>. He is a UCD graduate working on the Dublin Region Energy Masterplan, primarily through the form of open-sourced Python scripting for which more info can be found on our <a href="https://github.com/codema-dev">codema-dev</a> Github.
+      Jason Mc Guire is working on building the residential sector in the TIMES energy system optimization model, to provide discussion and inputs for Climate Action Plan 2021. He's also planning to explore Ireland's carbon budgets pathways.
     </td>
   </tr>
   <tr>
     <td>
-      <a href = "mailto: oisin.doherty@codema.ie">
-        <img src="https://img.shields.io/badge/oisin.doherty@codema.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      <a href = "mailto: jason.mcguire@ucc.ie">
+        <img src="https://img.shields.io/badge/jason.mcguire@ucc.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
       </a>
-      <a href="https://www.linkedin.com/in/oisindoherty/">
+      <a href="https://www.linkedin.com/in/jason-mc-guire-b45b6966/">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
-      <a href="https://github.com/oisindoherty3">
-        <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+      <a href="https://twitter.com/jayomacg+">
+        <img src="https://img.shields.io/badge/@jayomacg+%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
@@ -58,136 +60,6 @@
       </a>
       <a href="https://stackoverflow.com/users/12269508/rdmolony">
         <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
----
-
-
-## NUI Galway
-
-
-<table>
-  <tr>
-    <td>
-      <div class="square"> 
-        <img class="bios" src=  "img/bios/paul-moran.png" width="150">  
-      </div> 
-      Paul is a Postdoctoral Researcher with his research work focusing on sustainable construction technologies for building and retrofitting residential buildings, developing one-stop-shop retrofit services and the examining the interrelationships between building occupants, building systems, and building energy consumption.
-      <br><br>
-      He is currently working on the EU funded TURNKEY RETROFIT project which aims to create a service which will transform the complex and fragmented renovation process into a simple, straightforward and attractive process for the home-owner. The service will be accessible through a user-friendly digital platform and it will address drivers of building renovation that go beyond a desire to reduce energy bills and increase asset value, such as home improvement, increased comfort, enhanced health and quality of life.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href = "mailto: paul.t.moran@nuigalway.ie">
-        <img src="https://img.shields.io/badge/paul.t.moran@nuigalway.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
-      </a>
-      <a href="https://www.linkedin.com/in/paul-moran-7a51705a/">
-        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="https://www.researchgate.net/profile/Paul_Moran9">
-        <img src="https://img.shields.io/badge/Research_Gate%20-%230077B5.svg?&style=for-the-badge&logo=researchgate"/>
-      </a>
-      <a href="https://scholar.google.com/citations?user=KLaFxlAAAAAJ">
-        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
----
-
-
-## TUDublin
-
-<table>
-  <tr>
-    <td>
-      <div class="square"> 
-        <img class="bios" src=  "img/bios/ciara-ahern.png" width="150">  
-      </div> 
-      A chartered building services engineer currently serving as Head of Building Engineering within the College of Engineering and Built Environment in Technological University Dublin.  Dr. Ahern is a funded investigator with SFI/MaREI with active research activity in the area of energy resilience within the built environment.  Alongside an academic career, Dr. Ahern has 12 years industrial experience practicing as a consultant design engineer on residential and commercial building projects.  
-      <br><br>
-      Dr. Ahern's research interests involve building energy stock modelling and she is currently investigating how modelling outputs to inform policy can be made in real-time and in a robust fashion using artificial intelligence and machine learning to advance current analysis techniques.  Dr. Ahern has been using the Irish housing stock for case study analysis for over 10 years and is expert in thermo-physical characteristics of the Irish housing stock, having tested the viability of integrating heat pumps into the thermally refurbished stock in 2010.  
-      <br><br>
-      Dr. Ahern is the Minister of Education and Skills nominee to the board of the Construction Industry Register Ireland (CIRI), established to develop and promote best practice in buildings and construction. Ciara has led a European Research project in the area of heating systems optimization, is a member of Engineers Ireland, the American Society of Heating Refrigeration and Air Conditioning Engineers, the European Sustainable Energy Innovation Alliance and the European Energy Research Alliance. Ciara has also participated on the National Standard Authority of Ireland’s Building Services Committee. 
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href = "mailto: ciara.ahern@tudublin.ie">
-        <img src="https://img.shields.io/badge/ciara.ahern@tudublin.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
-      </a>
-      <a href="https://www.linkedin.com/in/dr-ciara-ahern-4a5b8b11/">
-        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="https://arrow.tudublin.ie/do/search/?q=ciara%20ahern&start=0&context=490738&facet=">
-        <img src="https://img.shields.io/badge/TUDublin%20-%230077B5.svg?&style=for-the-badge&"/>
-      </a>
-      <a href="https://scholar.google.com/citations?user=QolnHGsAAAAJ">
-        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
----
-
-
-## University College Cork (UCC)
-
-<table>
-  <tr>
-    <td>
-      <div class="square"> 
-        <img class="bios" src=  "img/bios/fionn-rogan.png" width="150">  
-      </div> 
-      Fionn Rogan is a Senior Research Fellow at UCC. Fionn's research interests and current activities include modelling energy policies, simulation modelling, energy innovation, diffusion of innovations, sustainable energy workshops.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href = "mailto: f.rogan@ucc.ie">
-        <img src="https://img.shields.io/badge/f.rogan@ucc.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
-      </a>
-      <a href="https://twitter.com/finorgan">
-        <img src="https://img.shields.io/badge/@finorgan%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
-      </a>
-      <a href="https://www.marei.ie/people/fionn-rogan/">
-        <img src="https://img.shields.io/badge/MaREI_Profile%20-%230077B5.svg?&style=for-the-badge&"/>
-      </a>
-      <a href="https://scholar.google.com/citations?hl=en&user=zIRGZOAAAAAJ">
-        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <div class="square"> 
-        <img class="bios" src=  "img/bios/jason-mc-guire.png" width="150">  
-      </div> 
-      Jason Mc Guire is working on building the residential sector in the TIMES energy system optimization model, to provide discussion and inputs for Climate Action Plan 2021. He's also planning to explore Ireland's carbon budgets pathways.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href = "mailto: jason.mcguire@ucc.ie">
-        <img src="https://img.shields.io/badge/jason.mcguire@ucc.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
-      </a>
-      <a href="https://www.linkedin.com/in/jason-mc-guire-b45b6966/">
-        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="https://twitter.com/jayomacg+">
-        <img src="https://img.shields.io/badge/@jayomacg+%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -226,10 +98,145 @@
   </tr>
 </table>
 
+
+## Members by Organisation
+### Codema - Dublin's Energy Agency
+
+<table>
+  <tr>
+    <td>
+      <div class="square"> 
+        <img class="bios" src=  "img/bios/oisin-doherty.png" width="150">  
+      </div> 
+      Oisín is an Junior Energy Systems Analyst at <a href="https://www.codema.ie">Codema - Dublin's Energy Agency</a>. He is a UCD graduate working on the Dublin Region Energy Masterplan, primarily through the form of open-sourced Python scripting for which more info can be found on our <a href="https://github.com/codema-dev">codema-dev</a> Github.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href = "mailto: oisin.doherty@codema.ie">
+        <img src="https://img.shields.io/badge/oisin.doherty@codema.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/oisindoherty/">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://github.com/oisindoherty3">
+        <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 
-## University College Dublin (UCD)
+### NUI Galway
+
+
+<table>
+  <tr>
+    <td>
+      <div class="square"> 
+        <img class="bios" src=  "img/bios/paul-moran.png" width="150">  
+      </div> 
+      Paul is a Postdoctoral Researcher with his research work focusing on sustainable construction technologies for building and retrofitting residential buildings, developing one-stop-shop retrofit services and the examining the interrelationships between building occupants, building systems, and building energy consumption.
+      <br><br>
+      He is currently working on the EU funded TURNKEY RETROFIT project which aims to create a service which will transform the complex and fragmented renovation process into a simple, straightforward and attractive process for the home-owner. The service will be accessible through a user-friendly digital platform and it will address drivers of building renovation that go beyond a desire to reduce energy bills and increase asset value, such as home improvement, increased comfort, enhanced health and quality of life.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href = "mailto: paul.t.moran@nuigalway.ie">
+        <img src="https://img.shields.io/badge/paul.t.moran@nuigalway.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/paul-moran-7a51705a/">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://www.researchgate.net/profile/Paul_Moran9">
+        <img src="https://img.shields.io/badge/Research_Gate%20-%230077B5.svg?&style=for-the-badge&logo=researchgate"/>
+      </a>
+      <a href="https://scholar.google.com/citations?user=KLaFxlAAAAAJ">
+        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
+### TUDublin
+
+<table>
+  <tr>
+    <td>
+      <div class="square"> 
+        <img class="bios" src=  "img/bios/ciara-ahern.png" width="150">  
+      </div> 
+      A chartered building services engineer currently serving as Head of Building Engineering within the College of Engineering and Built Environment in Technological University Dublin.  Dr. Ahern is a funded investigator with SFI/MaREI with active research activity in the area of energy resilience within the built environment.  Alongside an academic career, Dr. Ahern has 12 years industrial experience practicing as a consultant design engineer on residential and commercial building projects.  
+      <br><br>
+      Dr. Ahern's research interests involve building energy stock modelling and she is currently investigating how modelling outputs to inform policy can be made in real-time and in a robust fashion using artificial intelligence and machine learning to advance current analysis techniques.  Dr. Ahern has been using the Irish housing stock for case study analysis for over 10 years and is expert in thermo-physical characteristics of the Irish housing stock, having tested the viability of integrating heat pumps into the thermally refurbished stock in 2010.  
+      <br><br>
+      Dr. Ahern is the Minister of Education and Skills nominee to the board of the Construction Industry Register Ireland (CIRI), established to develop and promote best practice in buildings and construction. Ciara has led a European Research project in the area of heating systems optimization, is a member of Engineers Ireland, the American Society of Heating Refrigeration and Air Conditioning Engineers, the European Sustainable Energy Innovation Alliance and the European Energy Research Alliance. Ciara has also participated on the National Standard Authority of Ireland’s Building Services Committee. 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href = "mailto: ciara.ahern@tudublin.ie">
+        <img src="https://img.shields.io/badge/ciara.ahern@tudublin.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/dr-ciara-ahern-4a5b8b11/">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://arrow.tudublin.ie/do/search/?q=ciara%20ahern&start=0&context=490738&facet=">
+        <img src="https://img.shields.io/badge/TUDublin%20-%230077B5.svg?&style=for-the-badge&"/>
+      </a>
+      <a href="https://scholar.google.com/citations?user=QolnHGsAAAAJ">
+        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
+### University College Cork (UCC)
+
+<table>
+  <tr>
+    <td>
+      <div class="square"> 
+        <img class="bios" src=  "img/bios/fionn-rogan.png" width="150">  
+      </div> 
+      Fionn Rogan is a Senior Research Fellow at UCC. Fionn's research interests and current activities include modelling energy policies, simulation modelling, energy innovation, diffusion of innovations, sustainable energy workshops.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href = "mailto: f.rogan@ucc.ie">
+        <img src="https://img.shields.io/badge/f.rogan@ucc.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href="https://twitter.com/finorgan">
+        <img src="https://img.shields.io/badge/@finorgan%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+      </a>
+      <a href="https://www.marei.ie/people/fionn-rogan/">
+        <img src="https://img.shields.io/badge/MaREI_Profile%20-%230077B5.svg?&style=for-the-badge&"/>
+      </a>
+      <a href="https://scholar.google.com/citations?hl=en&user=zIRGZOAAAAAJ">
+        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
+### University College Dublin (UCD)
 
 <table>
   <tr>
@@ -256,7 +263,7 @@
   <tr>
     <td>
       <div class="square"> 
-        <img class="bios" src=  "../img/bios/james-odonnell.png" width="150">  
+        <img class="bios" src=  "img/bios/james-odonnell.png" width="150">  
       </div> 
       James O'Donnell joined University College Dublin (UCD) in June 2013. Prior to this appointment, he worked as a senior Scientific Engineering Associate in the Building Technology and Urban Systems Department of the Lawrence Berkeley National Laboratory (LBNL). His current work focuses on the development and deployment of interoperable and BIM based solutions to support multi-scale energy modelling, from individual buildings to national building stocks. It is in this capacity that he contributes to buildingSMART’s Building Energy Modelling IDM Expert Panel. In addition to technical research and consulting, James teaches modules focusing on building physics and building energy modelling. Previously, he taught courses at Stanford University, National University of Ireland Galway, and University College Cork on building performance analysis, building physics and HVAC analysis respectively. He also worked as a Postdoctoral Scholar at the National University of Ireland Galway (NUIG). James has a degree in Civil and Environmental Engineering and a Ph.D. in holistic building performance analysis from University College Cork (UCC). He is also an editorial board member for the Elsevier journal Advanced Engineering Informatics.
     </td>
