@@ -166,6 +166,43 @@
 ---
 
 
+### SEAI
+
+
+<table>
+  <tr>
+    <td>
+      <div class="square"> 
+        <img class="bios" src=  "img/bios/usman-ali.png" width="150">  
+      </div> 
+      Usman's primary research areas are urban building energy modeling, energy performance certification, machine learning, data mining, GIS modeling, and intelligent computing. He joined UCD Energy Institute as a Senior Energy Policy Researcher in collaboration with the Sustainable Energy Authority of Ireland (SEAI) in 2021. He will be involved in developing future proof energy performance certification and methodologies. Usman has completed his PhD on 'A data-driven GIS-based approach for multi-scale residential building energy modeling' in 2020. He received a BS in Computer Science from IIUI in 2008 and an MS in Computer Science from LUMS in 2013. He has also worked as a Research Associate in the field of smart grid, energy management, and software development.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href = "mailto: usman.ali@ucd.ie">
+        <img src="https://img.shields.io/badge/usman.ali@ucd.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href = "https://energyinstitute.ucd.ie/person/?smid=645">
+        <img src="https://img.shields.io/badge/UCD WebPage%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/usmanaliucd">
+        <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+      <a href="https://www.researchgate.net/profile/Usman-Ali-26">
+        <img src="https://img.shields.io/badge/Research_Gate%20-%230077B5.svg?&style=for-the-badge&logo=researchgate"/>
+      </a>
+      <a href="https://scholar.google.com/citations?user=6J2v3SkAAAAJ">
+        <img src="https://img.shields.io/badge/Google_Scholar%20-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+
 ### TUDublin
 
 <table>
@@ -270,11 +307,11 @@
   </tr>
   <tr>
     <td>
+    <a href = "mailto: james.odonnell@ucd.ie">
+        <img src="https://img.shields.io/badge/james.odonnell@ucd.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
+      </a>
       <a href = "https://people.ucd.ie/james.odonnell">
         <img src="https://img.shields.io/badge/UCD WebPage%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
-      </a>
-      <a href = "mailto: james.odonnell@ucd.ie">
-        <img src="https://img.shields.io/badge/james.odonnell@ucd.ie%20-%230077B5.svg?&style=for-the-badge&logoColor=white">
       </a>
       <a href="https://ie.linkedin.com/in/james-o-donnell-3509905">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
