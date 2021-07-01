@@ -10,8 +10,9 @@
 
 - [entsoe-py](https://github.com/EnergieID/entsoe-py) - Python client for the ENTSO-E API (european network of transmission system operators for electricity) 
 
-
 - [osmnx](https://github.com/gboeing/osmnx) - `Python` for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from `OpenStreetMap`. 
+
+- [stactools](https://github.com/stac-utils/stactools) - Command line utility and `Python` library for [SpatioTemporal Asset Catalog (STAC)](https://stacspec.org/)
 
 ## Modelling Frameworks
 
