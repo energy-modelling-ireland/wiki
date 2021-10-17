@@ -1,8 +1,8 @@
 site_name: Ireland Energy Wiki by the Energy Modelling Network Ireland
 site_description: 'Actively maintained listings of Irish energy-related resources'
-site_url: https://energy-modelling-ireland.github.io/ireland-energy-wiki/
+site_url: https://energy-modelling-ireland.github.io/wiki/
 repo_name: 'energy-modelling-ireland/ireland-energy-wiki'
-repo_url: 'https://github.com/energy-modelling-ireland/ireland-energy-wiki'
+repo_url: 'https://github.com/energy-modelling-ireland/wiki'
 theme:
   name: material
   logo: 'logo.png'
