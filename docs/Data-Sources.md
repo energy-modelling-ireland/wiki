@@ -2,6 +2,8 @@
 
 ## Data Catalogues
 
+- [AI for Earth](https://github.com/microsoft/AIforEarthDataSets) - hosts geospatial data on Azure related to environmental sustainability and Earth science as part of the Microsoft AI for Earth program .
+
 - [CSO Energy & Climate](https://www.cso.ie/en/statistics/climateandenergy/) - includes: fuel excise clearances, business energy use, domestic energy ratings, non-domestic building energy ratings, networked gas consumption, CSO climate data rescue
 
 - [CSO data portal](https://data.cso.ie) - all CSO data available interatively in-browser via click & filter. 
